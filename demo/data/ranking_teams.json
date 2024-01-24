@@ -1,0 +1,122 @@
+[
+    {
+        "rank": 1,
+        "prev_rank": 2,
+        "team_name": "UAE Team Emirates",
+        "abbreviation_name": "UAE",
+        "abbreviation_nationality": "AE",
+        "jersey_url": "uae.png",
+        "flag_url": "flags/ae.svg",
+        "nationality": "United Arab Emirates",
+        "teamClass": "WT",
+        "points": 30949.3
+    },
+    {
+        "rank": 2,
+        "prev_rank": 1,
+        "team_name": "Jumbo-Visma",
+        "teamClass": "WT",
+        "points": 29654.4,
+        "abbreviation_name": "TJV",
+        "abbreviation_nationality": "NL",
+        "nationality": "Netherlands",
+        "jersey_url": "visma.png",
+        "flag_url": "flags/nl.svg"
+    },
+    {
+        "rank": 3,
+        "prev_rank": 6,
+        "team_name": "Soudal - Quick Step",
+        "abbreviation_name": "SOQ",
+        "abbreviation_nationality": "BE",
+        "nationality": "Belgium",
+        "jersey_url": "soudal.png",
+        "flag_url": "flags/be.svg",
+        "teamClass": "WT",
+        "points": 18722.8
+    },
+    {
+        "rank": 4,
+        "prev_rank": 3,
+        "team_name": "INEOS Grenadiers",
+        "abbreviation_name": "IGD",
+        "abbreviation_nationality": "GB",
+        "nationality": "United Kingdom",
+        "jersey_url": "ineos.png",
+        "flag_url": "flags/gb.svg",
+        "teamClass": "WT",
+        "points": 17760.9
+    },
+    {
+        "rank": 5,
+        "prev_rank": 12,
+        "team_name": "Lidl - Trek",
+        "abbreviation_name": "LTK",
+        "abbreviation_nationality": "US",
+        "nationality": "United States",
+        "jersey_url": "trek.png",
+        "flag_url": "flags/us.svg",
+        "teamClass": "WT",
+        "points": 16102.5
+    },
+    {
+        "rank": 6,
+        "prev_rank": 8,
+        "team_name": "Bahrain - Victorious",
+        "abbreviation_name": "TBV",
+        "abbreviation_nationality": "BH",
+        "nationality": "Bahrain",
+        "jersey_url": "bahrain.png",
+        "flag_url": "flags/bh.svg",
+        "teamClass": "WT",
+        "points": 15753.8
+    },
+    {
+        "rank": 7,
+        "prev_rank": 7,
+        "team_name": "Groupama - FDJ",
+        "abbreviation_name": "GFC",
+        "abbreviation_nationality": "FR",
+        "nationality": "France",
+        "jersey_url": "groupama.png",
+        "flag_url": "flags/fr.svg",
+        "teamClass": "WT",
+        "points": 14810.1
+    },
+    {
+        "rank": 8,
+        "prev_rank": 9,
+        "team_name": "Alpecin - Deceuninck",
+        "abbreviation_name": "AD",
+        "abbreviation_nationality": "BE",
+        "nationality": "Belgium",
+        "jersey_url": "alpecin.png",
+        "flag_url": "flags/be.svg",
+        "teamClass": "WT",
+        "points": 14519.2
+    },
+    {
+        "rank": 9,
+        "prev_rank": 14,
+        "team_name": "Lotto Dstny",
+        "abbreviation_name": "LTD",
+        "abbreviation_nationality": "BE",
+        "nationality": "Belgium",
+        "jersey_url": "lotto.png",
+        "flag_url": "flags/be.svg",
+        "teamClass": "PRT",
+        "points": 14112.8
+    },
+    {
+        "rank": 10,
+        "prev_rank": 4,
+        "team_name": "BORA - hansgrohe",
+        "abbreviation_name": "BOH",
+        "abbreviation_nationality": "DE",
+        "nationality": "Germany",
+        "jersey_url": "bora.png",
+        "flag_url": "flags/de.svg",
+        "teamClass": "WT",
+        "points": 13325.1
+    }
+]

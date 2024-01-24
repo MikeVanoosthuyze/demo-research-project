@@ -1,0 +1,426 @@
+[
+    {
+        "birthdate": "1998-9-21",
+        "height": 1.76,
+        "name": "Tadej Pogačar",
+        "id":"tadej-pogacar",
+        "photo_url": "riders/pogacar.jpg",
+        "nationality": "SI",
+        "place_of_birth": "Klanec",
+        "points_per_season_history": [
+            {"season": 2023, "points": 3309.0, "rank": 1},
+            {"season": 2022, "points": 3413.0, "rank": 1},
+            {"season": 2021, "points": 3305.0, "rank": 1},
+            {"season": 2020, "points": 2063.0, "rank": 2},
+            {"season": 2019, "points": 1515.0, "rank": 13},
+            {"season": 2018, "points": 241.0, "rank": 268},
+            {"season": 2017, "points": 79.0, "rank": 718}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 4490,
+            "gc": 5194,
+            "time_trial": 1837,
+            "sprint": 226,
+            "climber": 7346
+        },
+        "teams_history": [
+            {"season": 2027, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2027", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2026, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2026", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2025, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Ljubljana Gusto Xaurum", "team_url": "team/ljubljana-gusto-xaurum-2018", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "ROG - Ljubljana", "team_url": "team/rog-ljubljana-2017", "class": "CT", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 66.0
+    },
+    {
+        "birthdate": "2000-1-25",
+        "height": 1.71,
+        "name": "Remco Evenepoel",
+        "id":"remco evenepoel",
+        "photo_url": "riders/evenepoel.jpg",
+        "nationality": "BE",
+        "place_of_birth": "Aalst",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2843.0, "rank": 2},
+            {"season": 2022, "points": 2754.0, "rank": 3},
+            {"season": 2021, "points": 1200.0, "rank": 17},
+            {"season": 2020, "points": 898.0, "rank": 18},
+            {"season": 2019, "points": 916.0, "rank": 45}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 2254,
+            "gc": 3184,
+            "time_trial": 2759,
+            "sprint": 120,
+            "climber": 3387
+        },
+        "teams_history": [
+            {"season": 2026, "team_name": "Soudal - Quick Step", "team_url": "team/soudal-quick-step-2026", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2025, "team_name": "Soudal - Quick Step", "team_url": "team/soudal-quick-step-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "Soudal - Quick Step", "team_url": "team/soudal-quick-step-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Soudal - Quick Step", "team_url": "team/soudal-quick-step-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Quick-Step Alpha Vinyl Team", "team_url": "team/quick-step-alpha-vinyl-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Deceuninck - Quick Step", "team_url": "team/deceuninck-quick-step-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Deceuninck - Quick Step", "team_url": "team/deceuninck-quick-step-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Deceuninck - Quick Step", "team_url": "team/deceuninck-quick-step-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Acrog-Pauwels-Sauzen-Balen BC", "team_url": "team/acrog-pauwels-sauzen-balen-bc-2018", "class": "CLUB", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Acrog - Balen BC Junior", "team_url": "team/acrog-balen-bc-2018", "class": "CLUB", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 61.0
+    },
+    {
+        "birthdate": "1996-12-10",
+        "height": 1.75,
+        "name": "Jonas Vingegaard",
+        "id":"jonas-vingegaard",
+        "photo_url": "riders/vingegaard.jpg",
+        "nationality": "DK",
+        "place_of_birth": "Hillerslev",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2715.0, "rank": 3},
+            {"season": 2022, "points": 2039.0, "rank": 4},
+            {"season": 2021, "points": 1312.0, "rank": 14},
+            {"season": 2020, "points": 124.0, "rank": 277},
+            {"season": 2019, "points": 295.0, "rank": 212},
+            {"season": 2018, "points": 32.0, "rank": 1145},
+            {"season": 2017, "points": 24.0, "rank": 1299},
+            {"season": 2016, "points": 92.0, "rank": 611}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 320,
+            "gc": 3681,
+            "time_trial": 1352,
+            "sprint": 129,
+            "climber": 3984
+        },
+        "teams_history": [
+            {"season": 2028, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2028", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2027, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2027", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2026, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2026", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2025, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Team ColoQuick", "team_url": "team/team-coloquick-2018", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "ColoQuick CULT", "team_url": "team/coloquick-cult-2017", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "ColoQuick CULT", "team_url": "team/coloquick-cult-2016", "class": "CT", "since": "05-23", "until": "12-31"},
+            {"season": 2016, "team_name": "Odder CK", "team_url": "team/odder-ck-2016", "class": "CLUB", "since": "01-01", "until": "05-22"},
+            {"season": 2015, "team_name": "Odder CK", "team_url": "team/odder-ck-2015", "class": "CLUB", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 60.0
+    },
+    {
+        "birthdate": "1989-10-29",
+        "height": 1.77,
+        "name": "Primož Roglič",
+        "id":"primoz-roglic",
+        "photo_url": "riders/roglic.jpg",
+        "nationality": "SI",
+        "place_of_birth": "Trbovlje",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2526.0, "rank": 4},
+            {"season": 2022, "points": 1240.0, "rank": 16},
+            {"season": 2021, "points": 2564.0, "rank": 3},
+            {"season": 2020, "points": 2431.0, "rank": 1},
+            {"season": 2019, "points": 2818.0, "rank": 1},
+            {"season": 2018, "points": 1666.0, "rank": 8},
+            {"season": 2017, "points": 1328.0, "rank": 21},
+            {"season": 2016, "points": 460.0, "rank": 112},
+            {"season": 2015, "points": 451.0, "rank": 110},
+            {"season": 2014, "points": 131.0, "rank": 454},
+            {"season": 2013, "points": 7.0, "rank": 1848}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 1862,
+            "gc": 7084,
+            "time_trial": 4896,
+            "sprint": 163,
+            "climber": 8408
+        },
+        "teams_history": [
+            {"season": 2025, "team_name": "BORA - hansgrohe", "team_url": "team/bora-hansgrohe-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "BORA - hansgrohe", "team_url": "team/bora-hansgrohe-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Team LottoNL-Jumbo", "team_url": "team/team-lottonl-jumbo-2018", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "Team LottoNL-Jumbo", "team_url": "team/team-lottonl-jumbo-2017", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Team LottoNL-Jumbo", "team_url": "team/team-lottonl-jumbo-2016", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "Adria Mobil", "team_url": "team/adria-mobil-2015", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2014, "team_name": "Adria Mobil", "team_url": "team/adria-mobil-2014", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2013, "team_name": "Adria Mobil", "team_url": "team/adria-mobil-2013", "class": "CT", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 65.0
+    },
+    {
+        "birthdate": "1998-3-2",
+        "height": 1.76,
+        "name": "Jasper Philipsen",
+        "id":"jasper-philipsen",
+        "photo_url": "riders/philipsen.jpg",
+        "nationality": "BE",
+        "place_of_birth": "Ham",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2152.0, "rank": 5},
+            {"season": 2022, "points": 1490.0, "rank": 7},
+            {"season": 2021, "points": 1564.0, "rank": 7},
+            {"season": 2020, "points": 636.0, "rank": 46},
+            {"season": 2019, "points": 772.0, "rank": 66},
+            {"season": 2018, "points": 318.0, "rank": 191},
+            {"season": 2017, "points": 96.0, "rank": 630}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 3278,
+            "gc": 349,
+            "time_trial": 152,
+            "sprint": 4468,
+            "climber": 1386
+        },
+        "teams_history": [
+            {"season": 2024, "team_name": "Alpecin - Deceuninck", "team_url": "team/alpecin-deceuninck-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Alpecin - Deceuninck", "team_url": "team/alpecin-deceuninck-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Alpecin - Fenix", "team_url": "team/alpecin-fenix-2022", "class": "PRT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Alpecin - Fenix", "team_url": "team/alpecin-fenix-2021", "class": "PRT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Hagens Berman Axeon", "team_url": "team/hagens-berman-axeon-2018", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "BMC Development Team", "team_url": "team/bmc-development-team-2017", "class": "CLUB", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Acrog - Balen BC Junior", "team_url": "team/acrog-balen-bc-2016", "class": "CLUB", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "Balen BC Junior", "team_url": "team/balen-bc-2015", "class": "CLUB", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1994-9-15",
+        "height": 1.9,
+        "name": "Wout van Aert",
+        "id":"wout-van-aert",
+        "photo_url": "riders/wout.jpg",
+        "nationality": "BE",
+        "place_of_birth": "Herentals",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2060.0, "rank": 6},
+            {"season": 2022, "points": 2862.0, "rank": 2},
+            {"season": 2021, "points": 2813.0, "rank": 2},
+            {"season": 2020, "points": 1834.0, "rank": 3},
+            {"season": 2019, "points": 852.0, "rank": 53},
+            {"season": 2018, "points": 551.0, "rank": 95},
+            {"season": 2017, "points": 456.0, "rank": 116},
+            {"season": 2016, "points": 254.0, "rank": 247},
+            {"season": 2015, "points": 43.0, "rank": 936},
+            {"season": 2014, "points": 18.0, "rank": 1312}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 6810,
+            "gc": 1091,
+            "time_trial": 2586,
+            "sprint": 1882,
+            "climber": 4133
+        },
+        "teams_history": [
+            {"season": 2026, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2026", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2025, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "Team Visma | Lease a Bike", "team_url": "team/team-visma-lease-a-bike-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Jumbo-Visma", "team_url": "team/team-jumbo-visma-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Team Jumbo-Visma", "team_url": "team/team-jumbo-visma-2019", "class": "WT", "since": "03-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Vérandas Willems-Crelan ", "team_url": "team/verandas-willems-crelan-2018", "class": "PCT", "since": "01-01", "until": "10-01"},
+            {"season": 2017, "team_name": "Vérandas Willems-Crelan ", "team_url": "team/verandas-willems-crelan-2017", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Crelan - Vastgoedservice", "team_url": "team/crelan-vastgoedservice-2016", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "Pauwels - Vastgoedservice", "team_url": "team/pauwels-vastgoedservice-2015", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2014, "team_name": "Vastgoedservice - Golden Palace", "team_url": "team/vastgoedservice-golden-palace-2014", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2013, "team_name": "Telenet - Fidea ", "team_url": "team/telenet-fidea-2013", "class": "CT", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1995-12-18",
+        "height": 1.8,
+        "name": "Mads Pedersen",
+        "id":"mads-pedersen",
+        "photo_url": "riders/pedersen.jpg",
+        "nationality": "DK",
+        "place_of_birth": "Tølløse",
+        "points_per_season_history": [
+            {"season": 2023, "points": 2009.0, "rank": 7},
+            {"season": 2022, "points": 1500.0, "rank": 6},
+            {"season": 2021, "points": 645.0, "rank": 65},
+            {"season": 2020, "points": 775.0, "rank": 28},
+            {"season": 2019, "points": 529.0, "rank": 110},
+            {"season": 2018, "points": 642.0, "rank": 80},
+            {"season": 2017, "points": 404.0, "rank": 135},
+            {"season": 2016, "points": 155.0, "rank": 404},
+            {"season": 2015, "points": 120.0, "rank": 513},
+            {"season": 2014, "points": 15.0, "rank": 1411}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 3101,
+            "gc": 1038,
+            "time_trial": 1457,
+            "sprint": 2358,
+            "climber": 1860
+        },
+        "teams_history": [
+            {"season": 2025, "team_name": "Lidl - Trek", "team_url": "team/lidl-trek-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "Lidl - Trek", "team_url": "team/lidl-trek-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2018", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "Trek - Segafredo", "team_url": "team/trek-segafredo-2017", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Stölting Service Group", "team_url": "team/stolting-service-group-2016", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "Cult Energy Pro Cycling", "team_url": "team/cult-energy-pro-cycling-2015", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2014, "team_name": "Cult Energy Vital Water", "team_url": "team/cult-energy-vital-water-2014", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2013, "team_name": "Team Roskilde Junior", "team_url": "team/team-roskilde-junior-2013", "class": "CLUB", "since": "01-01", "until": "12-31"},
+            {"season": 2012, "team_name": "Team Roskilde Junior", "team_url": "team/team-roskilde-junior-2012", "class": "CLUB", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 70.0
+    },
+    {
+        "birthdate": "1995-1-19",
+        "height": 1.84,
+        "name": "Mathieu van der Poel",
+        "id":"mathieu-van-der-poel",
+        "photo_url": "riders/vanderpoel.jpg",
+        "nationality": "NL",
+        "place_of_birth": "Kapellen",
+        "points_per_season_history": [
+            {"season": 2023, "points": 1719.0, "rank": 11},
+            {"season": 2022, "points": 1236.0, "rank": 18},
+            {"season": 2021, "points": 1488.0, "rank": 10},
+            {"season": 2020, "points": 1136.0, "rank": 8},
+            {"season": 2019, "points": 1337.0, "rank": 16},
+            {"season": 2018, "points": 391.0, "rank": 153},
+            {"season": 2017, "points": 335.0, "rank": 170},
+            {"season": 2016, "points": 30.0, "rank": 1149},
+            {"season": 2015, "points": 80.0, "rank": 649},
+            {"season": 2014, "points": 158.0, "rank": 391}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 5602,
+            "gc": 984,
+            "time_trial": 906,
+            "sprint": 1424,
+            "climber": 2474
+        },
+        "teams_history": [
+            {"season": 2025, "team_name": "Alpecin - Deceuninck", "team_url": "team/alpecin-deceuninck-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "Alpecin - Deceuninck", "team_url": "team/alpecin-deceuninck-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "Alpecin - Deceuninck", "team_url": "team/alpecin-deceuninck-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "Alpecin - Fenix", "team_url": "team/alpecin-fenix-2022", "class": "PRT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Alpecin - Fenix", "team_url": "team/alpecin-fenix-2021", "class": "PRT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Alpecin - Fenix", "team_url": "team/alpecin-fenix-2020", "class": "PRT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Corendon - Circus", "team_url": "team/corendon-circus-2019", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Corendon - Circus", "team_url": "team/corendon-circus-2018", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "Beobank - Corendon", "team_url": "team/beobank-corendon-2017", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Beobank - Corendon", "team_url": "team/beobank-corendon-2016", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "BKCP - Powerplus", "team_url": "team/bkcp-powerplus-2015", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2014, "team_name": "BKCP - Powerplus", "team_url": "team/bkcp-powerplus-2014", "class": "CT", "since": "01-01", "until": "12-31"},
+            {"season": 2012, "team_name": "IKO Enertherm - BKCP", "team_url": "team/iko-enertherm-bkcp-2012", "class": "CLUB", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1992-8-7",
+        "height": 1.73,
+        "name": "Adam Yates",
+        "id":"adam-yates",
+        "photo_url": "riders/adamYates.jpg",
+        "nationality": "GB",
+        "place_of_birth": "Bury",
+        "points_per_season_history": [
+            {"season": 2023, "points": 1947.0, "rank": 8},
+            {"season": 2022, "points": 1132.0, "rank": 23},
+            {"season": 2021, "points": 1500.0, "rank": 9},
+            {"season": 2020, "points": 690.0, "rank": 38},
+            {"season": 2019, "points": 1306.0, "rank": 20},
+            {"season": 2018, "points": 958.0, "rank": 41},
+            {"season": 2017, "points": 950.0, "rank": 45},
+            {"season": 2016, "points": 734.0, "rank": 54},
+            {"season": 2015, "points": 680.0, "rank": 56},
+            {"season": 2014, "points": 612.0, "rank": 64},
+            {"season": 2013, "points": 31.0, "rank": 1028}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 2261,
+            "gc": 5882,
+            "time_trial": 1018,
+            "sprint": 130,
+            "climber": 7292
+        },
+        "teams_history": [
+            {"season": 2025, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "INEOS Grenadiers", "team_url": "team/ineos-grenadiers-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "INEOS Grenadiers", "team_url": "team/ineos-grenadiers-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Mitchelton-Scott", "team_url": "team/mitchelton-scott-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Mitchelton-Scott", "team_url": "team/mitchelton-scott-2019", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Mitchelton-Scott", "team_url": "team/mitchelton-scott-2018", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "ORICA-Scott", "team_url": "team/orica-scott-2017", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2016, "team_name": "Orica GreenEDGE", "team_url": "team/orica-greenedge-2016", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2015, "team_name": "Orica GreenEDGE", "team_url": "team/orica-greenedge-2015", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2014, "team_name": "Orica GreenEDGE", "team_url": "team/orica-greenedge-2014", "class": "WT", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 58.0
+    },
+    {
+        "birthdate": "1998-8-5",
+        "height": 1.78,
+        "name": "João Almeida",
+        "id":"joao-almeida",
+        "photo_url": "riders/almeida.jpg",
+        "nationality": "PT",
+        "place_of_birth": "Caldas da Rainha",
+        "points_per_season_history": [
+            {"season": 2023, "points": 1478.0, "rank": 13},
+            {"season": 2022, "points": 978.0, "rank": 32},
+            {"season": 2021, "points": 1714.0, "rank": 5},
+            {"season": 2020, "points": 875.0, "rank": 20},
+            {"season": 2019, "points": 119.0, "rank": 509},
+            {"season": 2018, "points": 55.0, "rank": 849},
+            {"season": 2017, "points": 46.0, "rank": 960}
+        ],
+        "points_per_speciality": {
+            "one_day_races": 405,
+            "gc": 3224,
+            "time_trial": 1884,
+            "sprint": 152,
+            "climber": 3356
+        },
+        "teams_history": [
+            {"season": 2026, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2026", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2025, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2025", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2024, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2024", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2023, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2023", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2022, "team_name": "UAE Team Emirates", "team_url": "team/uae-team-emirates-2022", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2021, "team_name": "Deceuninck - Quick Step", "team_url": "team/deceuninck-quick-step-2021", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2020, "team_name": "Deceuninck - Quick Step", "team_url": "team/deceuninck-quick-step-2020", "class": "WT", "since": "01-01", "until": "12-31"},
+            {"season": 2019, "team_name": "Hagens Berman Axeon", "team_url": "team/hagens-berman-axeon-2019", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2018, "team_name": "Hagens Berman Axeon", "team_url": "team/hagens-berman-axeon-2018", "class": "PCT", "since": "01-01", "until": "12-31"},
+            {"season": 2017, "team_name": "Unieuro Trevigiani - Hemus 1896", "team_url": "team/unieuro-trevigiani-hemus-1896-2017", "class": "CT", "since": "01-01", "until": "12-31"}
+        ],
+        "weight": 63.0
+    }
+    
+    
+    
+        
+    
+    
+]

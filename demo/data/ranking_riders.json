@@ -1,0 +1,92 @@
+[
+    {
+        "rank": 1,
+        "rider_name": "Pogačar Tadej",
+        "id":"tadej-pogacar",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/pogacar.jpg",
+        "nationality": "SI",
+        "points": 7685.9
+    },
+    {
+        "rank": 2,
+        "rider_name": "Vingegaard Jonas",
+        "id":"jonas-vingegaard",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/vingegaard.jpg",
+        "nationality": "DK",
+        "points": 6304.1
+    },
+    {
+        "rank": 3,
+        "rider_name": "Evenepoel Remco",
+        "id":"remco-evenepoel",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/evenepoel.jpg",
+        "nationality": "BE",
+        "points": 5631.7
+    },
+    {
+        "rank": 4,
+        "rider_name": "Roglič Primož",
+        "id":"primoz-roglic",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/roglic.jpg",
+        "nationality": "SI",
+        "points": 5603.4
+    },
+    {
+        "rank": 5,
+        "rider_name": "van Aert Wout",
+        "id":"wout-van-aert",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/wout.jpg",
+        "nationality": "BE",
+        "points": 4762.0
+    },
+    {
+        "rank": 6,
+        "rider_name": "Pedersen Mads",
+        "id":"mads-pedersen",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/pedersen.jpg",
+        "nationality": "DK",
+        "points": 4606.1
+    },
+    {
+        "rank": 7,
+        "rider_name": "van der Poel Mathieu",
+        "id":"mathieu-van-der-poel",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/vanderpoel.jpg",
+        "nationality": "NL",
+        "points": 4163.0
+    },
+    {
+        "rank": 8,
+        "rider_name": "Yates Adam",
+        "id":"adam-yates",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/adamYates.jpg",
+        "nationality": "GB",
+        "points": 4007.9
+    },
+    {
+        "rank": 9,
+        "rider_name": "Philipsen Jasper",
+        "id":"jasper-philipsen",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/philipsen.jpg",
+        "nationality": "BE",
+        "points": 3912.0
+    },
+    {
+        "rank": 10,
+        "rider_name": "Almeida João",
+        "id":"joao-almeida",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/almeida.jpg",
+        "nationality": "PT",
+        "points": 3110.6
+    }
+]

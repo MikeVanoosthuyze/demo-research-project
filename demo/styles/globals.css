@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pageHeader {
+  view-transition-name: page-header;
+}
+::view-transition-new(page-header):only-child {
+  animation: 300ms ease var(--animation-delay, 0s) both fade-in,
+    300ms ease var(--animation-delay, 0s) both slide-down;
+}
+/* Exit */
+
+::view-transition-old(page-header):only-child {
+  animation: 200ms ease var(--animation-delay, 0s) both fade-out,
+    200ms ease var(--animation-delay, 0s) both slide-down;
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes slide-up {
+  0% {
+    transform: translateY(4rem);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-down {
+  0% {
+    transform: translateY(0);
+  }
+
+  100% {
+    transform: translateY(4rem);
+  }
+}
