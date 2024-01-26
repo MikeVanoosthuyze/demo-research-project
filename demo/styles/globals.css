@@ -2,6 +2,73 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #151618;
+  /* background-color: #33404D; */
+}
+
+h1,
+h2,
+h3 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+thead {
+  background-color: #90290a;
+}
+
+tr {
+  color: #fff;
+}
+
+table.table_teams,
+table.table_riders
+ {
+  width: 100%; /* Optional */
+}
+
+table.table_teams tbody,
+table.table_teams thead,
+table.table_riders tbody,
+table.table_riders thead{
+  display: block;
+}
+
+table.table_teams tbody,
+table.table_riders tbody{
+  height: 350px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+tbody td,
+thead th {
+  width: 10%; /* Optional */
+}
+
+
+/* Breedte en kleur van de scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #90290a; /* Kleur van de thumb */
+  border-radius: 6px; /* Afronding van de thumb */
+}
+/* Voor Firefox */
+/* Let op: Firefox ondersteunt momenteel geen specifieke aanpassingen aan de thumb */
+/* De onderstaande stijlen werken voor Firefox 64 en hoger */
+/* In oudere versies van Firefox zijn specifieke aanpassingen beperkt */
+* {
+  scrollbar-color: #3498db #f5f5f5;
+  scrollbar-width: thin;
+}
+
+/* View transition api */
+
 .pageHeader {
   view-transition-name: page-header;
 }

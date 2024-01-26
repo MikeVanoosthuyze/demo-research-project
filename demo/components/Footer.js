@@ -1,8 +1,7 @@
-
-export default function Footer () {
+export default function Footer() {
   return (
-    <footer>
-      ©️ <a href="https://domchristie.co.uk">Dom Christie</a> 2023
+    <footer className="h-20 bg-black mt-28">
+      <p className="text-light text-center">©️ Mike Vanoosthuyze 2024 </p>
     </footer>
-  )
+  );
 }

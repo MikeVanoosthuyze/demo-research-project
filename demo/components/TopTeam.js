@@ -16,7 +16,7 @@ export default function TopTeam({
 
   return (
     <Link href={`/teams/${abbreviation_name}`}>
-      <div className="bg-gray-200 p-4 w-80 rounded-xl">
+      <div className="p-4 w-80 rounded-3xl hover:scale-110 transition-all duration-200 ">
         <h2 className="font-bold text-xl mb-4 text-center">
           {rank} {team_name}
         </h2>
