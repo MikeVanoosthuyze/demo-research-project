@@ -36,15 +36,15 @@ export default function RankingTeams() {
   }, []);
 
   return (
-    <div className="w-5/12">
-      <h2 className="font-semibold text-2xl mb-8">Teams</h2>
+    <div className="w-7/12">
+      <h2 className="font-semibold text-3xl mb-20">Team rankings</h2>
       {/* Table */}
       <div>
         <table className="table_teams" ref={tableRef}>
-          <thead className="bg-accent-red rounded-lg">
+          <thead className="rounded-lg">
             <tr>
               <th className="text-center font-medium px-3">Jersey</th>
-              <th className="py-3  font-medium text-base text-center">Rank</th>
+              <th className="py-3 font-medium text-base text-center">Rank</th>
               <th className="font-medium text-base text-left">Points</th>
               <th className="font-medium text-base text-left px-3">Team</th>
             </tr>

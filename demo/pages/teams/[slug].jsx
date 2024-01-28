@@ -1,9 +1,10 @@
 import Head from "next/head";
+import { useEffect, useState } from "react";
+import { useRef } from "react";
 import Link from "next/link";
 import teams from "@/data/teams.json";
 import ranking_teams from "../../data/ranking_teams.json";
-import { useEffect, useState } from "react";
-// import photos from '@/photos'
+
 // import Footer from "@/components/Footer";
 
 export default function Team({
@@ -18,13 +19,44 @@ export default function Team({
   points,
   teamClass,
 }) {
-
   // const style = { viewTransitionName: `team-${index}` };
-
+  const tableRef = useRef(null);
   const [teamData, setTeamData] = useState(null);
 
   useEffect(() => {
-    const foundTeam = teams.find((team) => team.abbreviation === abbreviation_name);
+    const handleResize = () => {
+      const table = tableRef.current;
+
+      if (table) {
+        const headerRow = table.querySelector("thead tr");
+        const bodyRow = table.querySelector("tbody tr");
+
+        if (bodyRow) {
+          const bodyCells = bodyRow.children;
+          Array.from(bodyCells).forEach((cell, index) => {
+            const width = cell.offsetWidth;
+            headerRow.children[index].style.width = `${width}px`;
+          });
+        }
+      }
+    };
+
+    // Attach resize event listener when component mounts
+    window.addEventListener("resize", handleResize);
+
+    // Trigger resize handler on component mount
+    handleResize();
+
+    // Detach resize event listener when component unmounts
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
+
+  useEffect(() => {
+    const foundTeam = teams.find(
+      (team) => team.abbreviation === abbreviation_name
+    );
 
     if (foundTeam) {
       setTeamData(foundTeam);
@@ -45,11 +77,13 @@ export default function Team({
   return (
     <div className="w-10/12 m-auto mt-8">
       <Link href="/">
-        <div className="mt-6 bg-gray-200 w-fit px-2 py-1 rounded-md">Back</div>
+        <div className="mt-6 w-fit px-4 py-1 rounded-md text-light bg-darkGrey">
+          Back
+        </div>
       </Link>
 
-      <div className="mt-8">
-        <div className="flex gap-14 pageHeader">
+      <div className="mt-8 content-teampage">
+        <div className="flex gap-14">
           <img className="w-80 h-80" src={`/${jersey_url}`} alt="" />
           {/* Titel */}
           <div>
@@ -96,26 +130,25 @@ export default function Team({
           </div>
         </div>
 
-        <div className="m-auto mt-6 pageContent">
+        <div className="mt-6">
           <div className="bg-gray-200 p-10 rounded-xl">
             <h2 className="font-semibold text-2xl mb-4">Riders</h2>
-            <table className="w-full">
-              <thead className="">
+
+            <table className="table_detailRiders" ref={tableRef}>
+              <thead className="rounded-lg">
                 <tr>
                   <th className=""></th>
-                  <th className="py-1 px-3 font-semibold text-base text-left ">
+                  <th className="py-3 font-semibold text-left text-base">
                     Name
                   </th>
-                  <th className="py-1 px-3 font-semibold text-base text-left ">
+                  <th className="py-1 font-semibold text-left text-base">
                     Age
                   </th>
-                  <th className="py-1 px-3 font-semibold text-base text-left ">
+                  <th className="py-1 font-semibold text-left text-base">
                     Career points
                   </th>
                 </tr>
               </thead>
-
-             
 
               <tbody>
                 {teamData &&
@@ -124,19 +157,19 @@ export default function Team({
                       key={index}
                       className="hover:shadow-md hover:scale-105 cursor-pointer transition-all duration-200 rounded-md"
                     >
-                      <td className="px-3 py-1">
-                        {" "}
-                        <img
-                          src={`/${rider.photo_url}`}
-                          alt=""
-                          className="rounded-full object-cover object-top w-10 h-10"
-                        />
+                      <td className="py-4">
+                        <div className="ml-10">
+                          {" "}
+                          <img
+                            src={`/${rider.photo_url}`}
+                            alt=""
+                            className="rounded-full object-cover object-top w-14 h-14"
+                          />
+                        </div>
                       </td>
-                      <td className="px-3 py-1 text-base">
-                        {rider.rider_name}
-                      </td>
-                      <td className="px-3 py-1 text-base"> {rider.age}</td>
-                      <td className="px-3 py-1 text-base">
+                      <td className="text-base">{rider.rider_name}</td>
+                      <td className=" text-base"> {rider.age}</td>
+                      <td className=" text-base">
                         {""}
                         {rider.career_points}
                       </td>

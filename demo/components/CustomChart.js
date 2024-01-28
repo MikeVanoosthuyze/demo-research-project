@@ -16,7 +16,7 @@ const CustomChart = ({ value }) => {
   const outerDivStyle = {
     width: "100px",
     height: "20px",
-    backgroundColor: "#eee",
+    backgroundColor: "#04020D",
     borderRadius: "5px",
     position: "relative",
   };
@@ -24,7 +24,7 @@ const CustomChart = ({ value }) => {
   const innerDivStyle = {
     height: "100%",
     width: `${calculatePercentage(value, maxValue)}%`,
-    backgroundColor: "#3498db",
+    backgroundColor: "#7F9EBE",
     borderRadius: "5px",
   };
 

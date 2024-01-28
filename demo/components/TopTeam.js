@@ -20,7 +20,7 @@ export default function TopTeam({
         <h2 className="font-bold text-xl mb-4 text-center">
           {rank} {team_name}
         </h2>
-        <img className="w-40 h-40 m-auto" src={jersey_url} alt="" />
+        <img className="w-h-56 h-56 m-auto" src={jersey_url} alt="" />
         <div>
           <div className="flex justify-center">
             <div className="w-5 flex items-center mr-2">

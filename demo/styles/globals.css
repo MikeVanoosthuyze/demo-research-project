@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #151618;
-  /* background-color: #33404D; */
+  background-color: #04020D;
 }
 
 h1,
@@ -17,28 +16,30 @@ p {
   color: #fff;
 }
 thead {
-  background-color: #90290a;
+  background-color: #304C75;
 }
 
 tr {
   color: #fff;
 }
-
 table.table_teams,
-table.table_riders
- {
+table.table_riders,
+table.table_detailRiders {
   width: 100%; /* Optional */
 }
 
 table.table_teams tbody,
 table.table_teams thead,
+table.table_detailRiders tbody,
+table.table_detailRiders thead,
 table.table_riders tbody,
-table.table_riders thead{
+table.table_riders thead {
   display: block;
 }
 
 table.table_teams tbody,
-table.table_riders tbody{
+table.table_detailRiders tbody,
+table.table_riders tbody {
   height: 350px;
   overflow-y: auto;
   overflow-x: hidden;
@@ -49,13 +50,12 @@ thead th {
   width: 10%; /* Optional */
 }
 
-
 /* Breedte en kleur van de scrollbar */
 ::-webkit-scrollbar {
   width: 5px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #90290a; /* Kleur van de thumb */
+  background-color: #7F9EBE; /* Kleur van de thumb */
   border-radius: 6px; /* Afronding van de thumb */
 }
 /* Voor Firefox */
@@ -63,61 +63,84 @@ thead th {
 /* De onderstaande stijlen werken voor Firefox 64 en hoger */
 /* In oudere versies van Firefox zijn specifieke aanpassingen beperkt */
 * {
-  scrollbar-color: #3498db #f5f5f5;
+  scrollbar-color: #7F9EBE #f5f5f5;
   scrollbar-width: thin;
 }
 
 /* View transition api */
 
-.pageHeader {
-  view-transition-name: page-header;
+.content-teampage {
+  view-transition-name: team-page;
 }
-::view-transition-new(page-header):only-child {
-  animation: 300ms ease var(--animation-delay, 0s) both fade-in,
-    300ms ease var(--animation-delay, 0s) both slide-down;
-}
-/* Exit */
 
-::view-transition-old(page-header):only-child {
-  animation: 200ms ease var(--animation-delay, 0s) both fade-out,
-    200ms ease var(--animation-delay, 0s) both slide-down;
+.container-index {
+  view-transition-name: container-index;
 }
-@keyframes fade-in {
+
+.content-riderpage {
+  view-transition-name: rider-page;
+}
+
+/* New */
+::view-transition-new(container-index):only-child {
+  animation: 0.9s ease-in-out var(--animation-delay, 0s) both slide-right;
+}
+
+::view-transition-new(team-page):only-child,
+::view-transition-new(rider-page):only-child {
+  animation: 0.9s ease-in-out var(--animation-delay, 0s) both scale-down;
+  transform-origin: right;
+}
+
+/* Old */
+::view-transition-old(container-index):only-child {
+  animation: 0.8s ease-in-out var(--animation-delay, 0s) both slide-left;
+}
+
+::view-transition-old(team-page):only-child,
+::view-transition-old(rider-page):only-child {
+  animation: 0.8s ease-in-out var(--animation-delay, 0s) both scale-up;
+  /* transform-origin: top left; */
+}
+
+@keyframes scale-up {
   0% {
-    opacity: 0;
+    transform: scale(1);
+    transform-origin: right;
   }
 
   100% {
-    opacity: 1;
+    transform: scale(0);
+    transform-origin: right;
   }
 }
 
-@keyframes fade-out {
+@keyframes scale-down {
   0% {
-    opacity: 1;
+    transform: scale(0);
   }
 
   100% {
-    opacity: 0;
+    transform: scale(1);
+  }
+}
+/* Index page */
+@keyframes slide-left {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
   }
 }
 
-@keyframes slide-up {
+@keyframes slide-right {
   0% {
-    transform: translateY(4rem);
+    transform: translateX(-110%);
   }
 
   100% {
-    transform: translateY(0);
-  }
-}
-
-@keyframes slide-down {
-  0% {
-    transform: translateY(0);
-  }
-
-  100% {
-    transform: translateY(4rem);
+    transform: translateX(0%);
   }
 }

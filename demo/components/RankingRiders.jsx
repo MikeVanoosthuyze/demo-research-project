@@ -36,8 +36,8 @@ export default function RankingRiders() {
   }, []);
 
   return (
-    <div className="w-7/12">
-      <h2 className="font-semibold text-2xl mb-8">Ranking riders</h2>
+    <div className="w-6/12">
+      <h2 className="font-semibold text-3xl mb-20">Ranking riders</h2>
       {/* Table */}
       <div>
         <table className="table_riders" ref={tableRef}>
@@ -96,7 +96,6 @@ export default function RankingRiders() {
           </tbody>
         </table>
       </div>
-
       {/* End Table */}
     </div>
   );
