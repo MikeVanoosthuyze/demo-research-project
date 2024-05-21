@@ -12,11 +12,10 @@ export default function TopTeam({
   teamClass,
   index,
 }) {
-  const style = { viewTransitionName: `team-${index}` };
-
+  
   return (
     <Link href={`/teams/${abbreviation_name}`}>
-      <div className="p-4 w-80 rounded-3xl hover:scale-110 transition-all duration-200 ">
+      <div className="p-4 w-80 rounded-3xl hover:scale-110 transition-all ease-out duration-300">
         <h2 className="font-bold text-xl mb-4 text-center">
           {rank} {team_name}
         </h2>

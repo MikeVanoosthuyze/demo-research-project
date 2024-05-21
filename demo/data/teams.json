@@ -10,6 +10,7 @@
         "pcs_ranking_position": 1,
         "riders": [
             {
+                "id": "tadej-pogacar",
                 "photo_url": "riders/pogacar.jpg",
                 "ranking_points": 1,
                 "ranking_position": 3309,
@@ -19,6 +20,7 @@
                 "career_points": 13948
             },
             {
+                "id": "ulissi-diego",
                 "photo_url": "riders/ulissi.jpg",
                 "ranking_points": 73,
                 "ranking_position": 682,
@@ -28,6 +30,7 @@
                 "career_points": 12344
             },
             {
+                "id": "adam-yates",
                 "photo_url": "riders/adamYates.jpg",
                 "ranking_points": 8,
                 "ranking_position": 1947,
@@ -37,6 +40,7 @@
                 "career_points": 10540
             },
             {
+                "id": "majka-rafał",
                 "photo_url": "riders/majka.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -48,6 +52,7 @@
                 "career_points": 9391
             },
             {
+                "id": "tim-wellens",
                 "photo_url": "riders/wellens.jpg",
                 "ranking_points": 74,
                 "ranking_position": 675,
@@ -57,6 +62,7 @@
                 "career_points": 8759
             },
             {
+                "id": "trentin-matteo",
                 "photo_url": "riders/trentin.jpg",
                 "ranking_points": 97,
                 "ranking_position": 571,
@@ -66,6 +72,7 @@
                 "career_points": 8521
             },
             {
+                "id": "ackermann-pascal",
                 "photo_url": "riders/ackermann.jpg",
                 "ranking_points": 179,
                 "ranking_position": 362,
@@ -75,6 +82,7 @@
                 "career_points": 6283
             },
             {
+                "id": "almeida-joão",
                 "photo_url": "riders/almeida.jpg",
                 "ranking_points": 13,
                 "ranking_position": 1478,
@@ -84,6 +92,7 @@
                 "career_points": 5283
             },
             {
+                "id": "bennett-george",
                 "photo_url": "riders/bennett.jpg",
                 "ranking_points": 266,
                 "ranking_position": 247,
@@ -93,6 +102,7 @@
                 "career_points": 4751
             },
             {
+                "id": "hirschi-marc",
                 "photo_url": "riders/hirschi.jpg",
                 "ranking_points": 9,
                 "ranking_position": 1817,
@@ -100,15 +110,6 @@
                 "nationality": "CH",
                 "rider_name": "HIRSCHI Marc",
                 "career_points": 4748
-            },
-            {
-                "photo_url": "riders/formolo.jpg",
-                "ranking_points": 134,
-                "ranking_position": 454,
-                "age": 30,
-                "nationality": "IT",
-                "rider_name": "FORMOLO Davide",
-                "career_points": 4508
             }
         ],
         "status": "WT",
@@ -126,6 +127,7 @@
         "pcs_ranking_position": 2,
         "riders": [
             {
+                "id": "primoz-roglic",
                 "photo_url": "riders/roglic.jpg",
                 "ranking_points": 4,
                 "ranking_position": 2526,
@@ -135,6 +137,7 @@
                 "career_points": 15630
             },
             {
+                "id": "wout-van-aert",
                 "rider_url": "rider/wout-van-aert",
                 "photo_url": "riders/wout.jpg",
                 "ranking_points": 6,
@@ -145,6 +148,7 @@
                 "career_points": 11785
             },
             {
+                "id": "robert-gesink",
                 "photo_url": "riders/gesink.jpg",
                 "ranking_points": 892,
                 "ranking_position": 45,
@@ -154,6 +158,7 @@
                 "career_points": 9917
             },
             {
+                "id": "wilco-kelderman",
                 "photo_url": "riders/kelderman.jpg",
                 "ranking_points": 168,
                 "ranking_position": 375,
@@ -163,6 +168,7 @@
                 "career_points": 8484
             },
             {
+                "id": "rohan-dennis",
                 "photo_url": "riders/dennis.jpg",
                 "ranking_points": 421,
                 "ranking_position": 142,
@@ -172,6 +178,7 @@
                 "career_points": 7078
             },
             {
+                "id": "tiesj-benoot",
                 "photo_url": "riders/benoot.jpg",
                 "ranking_points": 39,
                 "ranking_position": 908,
@@ -181,6 +188,7 @@
                 "career_points": 6946
             },
             {
+                "id": "jonas-vingegaard",
                 "photo_url": "riders/vingegaard.jpg",
                 "ranking_points": 3,
                 "ranking_position": 2715,
@@ -190,6 +198,7 @@
                 "career_points": 6633
             },
             {
+                "id": "steven-kruijswijk",
                 "photo_url": "riders/kruijswijk.jpg",
                 "ranking_points": 1156,
                 "ranking_position": 25,
@@ -199,6 +208,7 @@
                 "career_points": 6129
             },
             {
+                "id": "christophe-laporte",
                 "photo_url": "riders/laporte.jpg",
                 "ranking_points": 20,
                 "ranking_position": 1266,
@@ -208,15 +218,7 @@
                 "career_points": 6088
             },
             {
-                "photo_url": "riders/van-baarle.jpg",
-                "ranking_points": 187,
-                "ranking_position": 350,
-                "age": 31,
-                "nationality": "NL",
-                "rider_name": "VAN BAARLE Dylan",
-                "career_points": 4585
-            },
-            {
+                "id": "sepp-kuss",
                 "photo_url": "riders/kuss.jpg",
                 "ranking_points": 21,
                 "ranking_position": 1150,
@@ -241,6 +243,7 @@
         "pcs_ranking_position": 4,
         "riders": [
             {
+                "id": "julian-alaphilippe",
                 "photo_url": "riders/alaphilippe.jpg",
                 "ranking_points": 70,
                 "ranking_position": 703,
@@ -250,6 +253,7 @@
                 "career_points": 12156
             },
             {
+                "id": "remco-evenepoel",
                 "photo_url": "riders/evenepoel.jpg",
                 "ranking_points": 2,
                 "ranking_position": 2843,
@@ -259,6 +263,7 @@
                 "career_points": 8723
             },
             {
+                "id": "yves-lampaert",
                 "photo_url": "riders/lampaert.jpg",
                 "ranking_points": 73,
                 "ranking_position": 694,
@@ -268,6 +273,7 @@
                 "career_points": 6307
             },
             {
+                "id": "tim-merlier",
                 "photo_url": "riders/merlier.jpg",
                 "ranking_points": 42,
                 "ranking_position": 900,
@@ -277,6 +283,7 @@
                 "career_points": 4363
             },
             {
+                "id": "florian-senechal",
                 "photo_url": "riders/senechal.jpg",
                 "ranking_points": 211,
                 "ranking_position": 307,
@@ -286,6 +293,7 @@
                 "career_points": 4171
             },
             {
+                "id": "fabio-jakobsen",
                 "photo_url": "riders/jakobsen.jpg",
                 "ranking_points": 103,
                 "ranking_position": 558,
@@ -295,6 +303,7 @@
                 "career_points": 4124
             },
             {
+                "id": "dries-devenyns",
                 "photo_url": "riders/devenyns.jpg",
                 "ranking_points": 809,
                 "ranking_position": 55,
@@ -304,6 +313,7 @@
                 "career_points": 4103
             },
             {
+                "id": "kasper-asgreen",
                 "photo_url": "riders/asgreen.jpg",
                 "ranking_points": 113,
                 "ranking_position": 521,
@@ -313,6 +323,7 @@
                 "career_points": 3642
             },
             {
+                "id": "michael-morkov",
                 "photo_url": "riders/morkov.jpg",
                 "ranking_points": 735,
                 "ranking_position": 66,
@@ -322,6 +333,7 @@
                 "career_points": 2926
             },
             {
+                "id": "mattia-cattaneo",
                 "photo_url": "riders/cattaneo.jpg",
                 "ranking_points": 174,
                 "ranking_position": 365,
@@ -329,15 +341,6 @@
                 "nationality": "IT",
                 "rider_name": "CATTANEO Mattia",
                 "career_points": 2891
-            },
-            {
-                "photo_url": "riders/masnada.jpg",
-                "ranking_points": 462,
-                "ranking_position": 127,
-                "age": 29,
-                "nationality": "IT",
-                "rider_name": "MASNADA Fausto",
-                "career_points": 2667
             }
         ],
         "status": "WT",
@@ -355,6 +358,7 @@
         "pcs_ranking_position": 3,
         "riders": [
             {
+                "id": "elia-viviani",
                 "photo_url": "riders/viviani.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -366,6 +370,7 @@
                 "career_points": 11369
             },
             {
+                "id": "michal-kwiatkowski",
                 "photo_url": "riders/kwiatkowski.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -377,6 +382,7 @@
                 "career_points": 11130
             },
             {
+                "id": "geraint-thomas",
                 "photo_url": "riders/geraint.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -388,6 +394,7 @@
                 "career_points": 11064
             },
             {
+                "id": "egan-bernal",
                 "photo_url": "riders/bernal.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -399,6 +406,7 @@
                 "career_points": 6167
             },
             {
+                "id": "ben-swift",
                 "photo_url": "riders/swift.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -410,6 +418,7 @@
                 "career_points": 4588
             },
             {
+                "id": "jonathan-castroviejo",
                 "photo_url": "riders/castroviejo.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -421,6 +430,7 @@
                 "career_points": 4370
             },
             {
+                "id": "filippo-ganna",
                 "photo_url": "riders/ganna.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -432,6 +442,7 @@
                 "career_points": 4138
             },
             {
+                "id": "thomas-pidcock",
                 "photo_url": "riders/pidcock.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -443,6 +454,7 @@
                 "career_points": 2684
             },
             {
+                "id": "sheffield-magnus",
                 "photo_url": "riders/sheffield.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -454,6 +466,7 @@
                 "career_points": 1139
             },
             {
+                "id": "joshua-tarling",
                 "photo_url": "riders/tarling.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -483,6 +496,7 @@
         "wins_count": 27,
         "riders": [
             {
+                "id": "bauke-mollema",
                 "photo_url": "riders/mollema.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -494,6 +508,7 @@
                 "career_points": 13896
             },
             {
+                "id": "jasper-stuyven",
                 "photo_url": "riders/stuyven.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -505,6 +520,7 @@
                 "career_points": 7016
             },
             {
+                "id": "mads-pedersen",
                 "photo_url": "riders/pedersen.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -516,7 +532,8 @@
                 "career_points": 6813
             },
             {
-                "photo_url": "riders/stuyven.jpg",
+                "id": "edward-theuns",
+                "photo_url": "riders/theuns.jpg",
                 "since": "01-01",
                 "until": "12-31",
                 "ranking_points": 120,
@@ -527,6 +544,7 @@
                 "career_points": 4314
             },
             {
+                "id": "giulio-ciccone",
                 "photo_url": "riders/ciccone.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -538,6 +556,7 @@
                 "career_points": 3666
             },
             {
+                "id": "mattias-skjelmose",
                 "photo_url": "riders/skjelmose.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -549,6 +568,7 @@
                 "career_points": 2833
             },
             {
+                "id": "quin-simmons",
                 "photo_url": "riders/simmons.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -560,6 +580,7 @@
                 "career_points": 820
             },
             {
+                "id": "juan-pedro",
                 "photo_url": "riders/juan-pedro.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -571,6 +592,7 @@
                 "career_points": 779
             },
             {
+                "id": "thibau-nys",
                 "photo_url": "riders/nys.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -582,6 +604,7 @@
                 "career_points": 461
             },
             {
+                "id": "filippo-baroncini",
                 "photo_url": "riders/baroncini.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -608,6 +631,7 @@
         "pcs_ranking_position": 5,
         "riders": [
             {
+                "id": "mikel-landa",
                 "photo_url": "riders/landa.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -619,6 +643,7 @@
                 "career_points": 8853
             },
             {
+                "id": "wout-poels",
                 "photo_url": "riders/poels.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -630,6 +655,7 @@
                 "career_points": 7663
             },
             {
+                "id": "damiono-caruso",
                 "photo_url": "riders/caruso.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -641,6 +667,7 @@
                 "career_points": 7080
             },
             {
+                "id": "pello-bilbao",
                 "photo_url": "riders/bilbao.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -652,6 +679,7 @@
                 "career_points": 6981
             },
             {
+                "id": "matej-mohoric",
                 "photo_url": "riders/mohoric.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -663,6 +691,7 @@
                 "career_points": 6066
             },
             {
+                "id": "jack-haig",
                 "photo_url": "riders/haig.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -674,6 +703,7 @@
                 "career_points": 4025
             },
             {
+                "id": "santiago-buitrago",
                 "photo_url": "riders/buitrago.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -685,6 +715,7 @@
                 "career_points": 1610
             },
             {
+                "id": "jonathan-milan",
                 "photo_url": "riders/jonathan-milan.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -696,6 +727,7 @@
                 "career_points": 817
             },
             {
+                "id": "jasha-sutterlin",
                 "photo_url": "riders/sutterlin.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -707,6 +739,7 @@
                 "career_points": 1310
             },
             {
+                "id": "hermann-pernsteiner",
                 "photo_url": "riders/pernsteiner.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -733,6 +766,7 @@
         "pcs_ranking_position": 8,
         "riders": [
             {
+                "id": "arnaud-demare",
                 "photo_url": "riders/demare.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -744,6 +778,7 @@
                 "career_points": 12769
             },
             {
+                "id": "thibaut-pinot",
                 "photo_url": "riders/pinot.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -755,6 +790,7 @@
                 "career_points": 12619
             },
             {
+                "id": "stefan-kung",
                 "photo_url": "riders/kung.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -766,6 +802,7 @@
                 "career_points": 6625
             },
             {
+                "id": "david-gaudu",
                 "photo_url": "riders/gaudu.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -777,6 +814,7 @@
                 "career_points": 5270
             },
             {
+                "id": "valentin-madouas",
                 "photo_url": "riders/madouas.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -788,6 +826,7 @@
                 "career_points": 3860
             },
             {
+                "id": "matthieu-ladagnous",
                 "photo_url": "riders/ladagnous.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -799,6 +838,7 @@
                 "career_points": 3411
             },
             {
+                "id": "rudy-molard",
                 "photo_url": "riders/molard.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -810,6 +850,7 @@
                 "career_points": 3214
             },
             {
+                "id": "Ignatas-konovalovas",
                 "photo_url": "riders/konovalovas.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -821,6 +862,7 @@
                 "career_points": 2055
             },
             {
+                "id": "quentin-pacher",
                 "photo_url": "riders/pacher.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -832,6 +874,7 @@
                 "career_points": 1955
             },
             {
+                "id": "michael-storer",
                 "photo_url": "riders/storer.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -858,6 +901,7 @@
         "pcs_ranking_position": 6,
         "riders": [
             {
+                "id": "mathieu-van-der-poel",
                 "photo_url": "riders/vanderpoel.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -869,6 +913,7 @@
                 "career_points": 7980
             },
             {
+                "id": "jasper-philipsen",
                 "photo_url": "riders/philipsen.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -880,6 +925,7 @@
                 "career_points": 7040
             },
             {
+                "id": "kragh-andersen",
                 "photo_url": "riders/andersen.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -891,6 +937,7 @@
                 "career_points": 4011
             },
             {
+                "id": "kristian-sbaragli",
                 "photo_url": "riders/sbaragli.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -902,6 +949,7 @@
                 "career_points": 2998
             },
             {
+                "id": "jakub-mareczko",
                 "photo_url": "riders/mareczko.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -913,6 +961,7 @@
                 "career_points": 2894
             },
             {
+                "id": "silvan-dillier",
                 "photo_url": "riders/dillier.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -924,6 +973,7 @@
                 "career_points": 2758
             },
             {
+                "id": "xandro-meurisse",
                 "photo_url": "riders/meurisse.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -935,6 +985,7 @@
                 "career_points": 2556
             },
             {
+                "id": "kaden-groves",
                 "photo_url": "riders/groves.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -946,7 +997,8 @@
                 "career_points": 2018
             },
             {
-                "rider_url": "rider/dries-de-bondt",
+                "id": "dries-de-bondt",
+                "photo_url": "riders/de-bondt.jpg",
                 "since": "01-01",
                 "until": "12-31",
                 "ranking_points": 404,
@@ -957,6 +1009,7 @@
                 "career_points": 1905
             },
             {
+                "id": "ramon-sinkeldam",
                 "photo_url": "riders/sinkeldam.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -983,6 +1036,7 @@
         "pcs_ranking_position": 10,
         "riders": [
             {
+                "id": "caleb-ewan",
                 "photo_url": "riders/ewan.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -994,6 +1048,7 @@
                 "career_points": 7466
             },
             {
+                "id": "thomas-de-gendt",
                 "photo_url": "riders/gendt.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1005,6 +1060,7 @@
                 "career_points": 3607
             },
             {
+                "id": "victor-campenaerts",
                 "photo_url": "riders/campenaerts.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1016,6 +1072,7 @@
                 "career_points": 3117
             },
             {
+                "id": "arnaud-de-lie",
                 "photo_url": "riders/delie.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1027,6 +1084,7 @@
                 "career_points": 3105
             },
             {
+                "id": "jasper-de-buyst",
                 "photo_url": "riders/de-buyst.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1038,6 +1096,7 @@
                 "career_points": 2684
             },
             {
+                "id": "eduardo-sepulveda",
                 "photo_url": "riders/sepulveda.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1049,6 +1108,7 @@
                 "career_points": 2206
             },
             {
+                "id": "rudiger-selig",
                 "photo_url": "riders/rudiger.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1060,6 +1120,7 @@
                 "career_points": 1736
             },
             {
+                "id": "florian-vermeersch",
                 "photo_url": "riders/florian-vermeersch.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1071,6 +1132,7 @@
                 "career_points": 1678
             },
             {
+                "id": "andreas-kron",
                 "photo_url": "riders/andreas-kron.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1082,6 +1144,7 @@
                 "career_points": 1656
             },
             {
+                "id": "jacopo-guarnieri",
                 "photo_url": "riders/guarnieri.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1108,6 +1171,7 @@
         "pcs_ranking_position": 7,
         "riders": [
             {
+                "id": "sam-bennett",
                 "photo_url": "riders/sam-bennett.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1119,6 +1183,7 @@
                 "career_points": 7498
             },
             {
+                "id": "danny-van-poppel",
                 "photo_url": "riders/van-poppel.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1130,6 +1195,7 @@
                 "career_points": 5992
             },
             {
+                "id": "bob-jungels",
                 "photo_url": "riders/jungels.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1141,6 +1207,7 @@
                 "career_points": 5424
             },
             {
+                "id": "aleksandr-vlasov",
                 "photo_url": "riders/vlasov.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1152,6 +1219,7 @@
                 "career_points": 5346
             },
             {
+                "id": "patrick-konrad",
                 "photo_url": "riders/patrick-konrad.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1163,6 +1231,7 @@
                 "career_points": 4567
             },
             {
+                "id": "emmanuel-buchmann",
                 "photo_url": "riders/buchmann.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1174,6 +1243,7 @@
                 "career_points": 4420
             },
             {
+                "id": "maximilian-schachmann",
                 "photo_url": "riders/schachmann.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1185,6 +1255,7 @@
                 "career_points": 4327
             },
             {
+                "id": "jai-hindley",
                 "photo_url": "riders/hindley.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1196,6 +1267,7 @@
                 "career_points": 3999
             },
             {
+                "id": "sergio-higuita",
                 "photo_url": "riders/higuita.jpg",
                 "since": "01-01",
                 "until": "12-31",
@@ -1207,6 +1279,7 @@
                 "career_points": 3793
             },
             {
+                "id": "nils-politt",
                 "photo_url": "riders/politt.jpg",
                 "since": "01-01",
                 "until": "12-31",

@@ -4,46 +4,10 @@
         "height": 1.76,
         "name": "Tadej Pogačar",
         "id": "tadej-pogacar",
+        "team_name": "UAE Team Emirates",
         "photo_url": "riders/pogacar.jpg",
         "nationality": "SI",
         "place_of_birth": "Klanec",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 3309.0,
-                "rank": 1
-            },
-            {
-                "season": 2022,
-                "points": 3413.0,
-                "rank": 1
-            },
-            {
-                "season": 2021,
-                "points": 3305.0,
-                "rank": 1
-            },
-            {
-                "season": 2020,
-                "points": 2063.0,
-                "rank": 2
-            },
-            {
-                "season": 2019,
-                "points": 1515.0,
-                "rank": 13
-            },
-            {
-                "season": 2018,
-                "points": 241.0,
-                "rank": 268
-            },
-            {
-                "season": 2017,
-                "points": 79.0,
-                "rank": 718
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 4490,
             "gc": 5194,
@@ -51,96 +15,6 @@
             "sprint": 226,
             "climber": 7346
         },
-        "teams_history": [
-            {
-                "season": 2027,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2027",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2026,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2026",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2025,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Ljubljana Gusto Xaurum",
-                "team_url": "team/ljubljana-gusto-xaurum-2018",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "ROG - Ljubljana",
-                "team_url": "team/rog-ljubljana-2017",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 66.0
     },
     {
@@ -148,36 +22,10 @@
         "height": 1.71,
         "name": "Remco Evenepoel",
         "id": "remco-evenepoel",
+        "team_name": "Soudal - Quick Step",
         "photo_url": "riders/evenepoel.jpg",
         "nationality": "BE",
         "place_of_birth": "Aalst",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2843.0,
-                "rank": 2
-            },
-            {
-                "season": 2022,
-                "points": 2754.0,
-                "rank": 3
-            },
-            {
-                "season": 2021,
-                "points": 1200.0,
-                "rank": 17
-            },
-            {
-                "season": 2020,
-                "points": 898.0,
-                "rank": 18
-            },
-            {
-                "season": 2019,
-                "points": 916.0,
-                "rank": 45
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 2254,
             "gc": 3184,
@@ -185,88 +33,6 @@
             "sprint": 120,
             "climber": 3387
         },
-        "teams_history": [
-            {
-                "season": 2026,
-                "team_name": "Soudal - Quick Step",
-                "team_url": "team/soudal-quick-step-2026",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2025,
-                "team_name": "Soudal - Quick Step",
-                "team_url": "team/soudal-quick-step-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "Soudal - Quick Step",
-                "team_url": "team/soudal-quick-step-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Soudal - Quick Step",
-                "team_url": "team/soudal-quick-step-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Quick-Step Alpha Vinyl Team",
-                "team_url": "team/quick-step-alpha-vinyl-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Deceuninck - Quick Step",
-                "team_url": "team/deceuninck-quick-step-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Deceuninck - Quick Step",
-                "team_url": "team/deceuninck-quick-step-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Deceuninck - Quick Step",
-                "team_url": "team/deceuninck-quick-step-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Acrog-Pauwels-Sauzen-Balen BC",
-                "team_url": "team/acrog-pauwels-sauzen-balen-bc-2018",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Acrog - Balen BC Junior",
-                "team_url": "team/acrog-balen-bc-2018",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 61.0
     },
     {
@@ -274,51 +40,10 @@
         "height": 1.75,
         "name": "Jonas Vingegaard",
         "id": "jonas-vingegaard",
+        "team_name": "Jumbo - Visma",
         "photo_url": "riders/vingegaard.jpg",
         "nationality": "DK",
         "place_of_birth": "Hillerslev",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2715.0,
-                "rank": 3
-            },
-            {
-                "season": 2022,
-                "points": 2039.0,
-                "rank": 4
-            },
-            {
-                "season": 2021,
-                "points": 1312.0,
-                "rank": 14
-            },
-            {
-                "season": 2020,
-                "points": 124.0,
-                "rank": 277
-            },
-            {
-                "season": 2019,
-                "points": 295.0,
-                "rank": 212
-            },
-            {
-                "season": 2018,
-                "points": 32.0,
-                "rank": 1145
-            },
-            {
-                "season": 2017,
-                "points": 24.0,
-                "rank": 1299
-            },
-            {
-                "season": 2016,
-                "points": 92.0,
-                "rank": 611
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 320,
             "gc": 3681,
@@ -326,128 +51,6 @@
             "sprint": 129,
             "climber": 3984
         },
-        "teams_history": [
-            {
-                "season": 2028,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2028",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2027,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2027",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2026,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2026",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2025,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Team ColoQuick",
-                "team_url": "team/team-coloquick-2018",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "ColoQuick CULT",
-                "team_url": "team/coloquick-cult-2017",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "ColoQuick CULT",
-                "team_url": "team/coloquick-cult-2016",
-                "class": "CT",
-                "since": "05-23",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Odder CK",
-                "team_url": "team/odder-ck-2016",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "05-22"
-            },
-            {
-                "season": 2015,
-                "team_name": "Odder CK",
-                "team_url": "team/odder-ck-2015",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 60.0
     },
     {
@@ -455,66 +58,10 @@
         "height": 1.77,
         "name": "Primož Roglič",
         "id": "primoz-roglic",
+        "team_name": "Jumbo - Visma",
         "photo_url": "riders/roglic.jpg",
         "nationality": "SI",
         "place_of_birth": "Trbovlje",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2526.0,
-                "rank": 4
-            },
-            {
-                "season": 2022,
-                "points": 1240.0,
-                "rank": 16
-            },
-            {
-                "season": 2021,
-                "points": 2564.0,
-                "rank": 3
-            },
-            {
-                "season": 2020,
-                "points": 2431.0,
-                "rank": 1
-            },
-            {
-                "season": 2019,
-                "points": 2818.0,
-                "rank": 1
-            },
-            {
-                "season": 2018,
-                "points": 1666.0,
-                "rank": 8
-            },
-            {
-                "season": 2017,
-                "points": 1328.0,
-                "rank": 21
-            },
-            {
-                "season": 2016,
-                "points": 460.0,
-                "rank": 112
-            },
-            {
-                "season": 2015,
-                "points": 451.0,
-                "rank": 110
-            },
-            {
-                "season": 2014,
-                "points": 131.0,
-                "rank": 454
-            },
-            {
-                "season": 2013,
-                "points": 7.0,
-                "rank": 1848
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 1862,
             "gc": 7084,
@@ -522,310 +69,17 @@
             "sprint": 163,
             "climber": 8408
         },
-        "teams_history": [
-            {
-                "season": 2025,
-                "team_name": "BORA - hansgrohe",
-                "team_url": "team/bora-hansgrohe-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "BORA - hansgrohe",
-                "team_url": "team/bora-hansgrohe-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Team LottoNL-Jumbo",
-                "team_url": "team/team-lottonl-jumbo-2018",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "Team LottoNL-Jumbo",
-                "team_url": "team/team-lottonl-jumbo-2017",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Team LottoNL-Jumbo",
-                "team_url": "team/team-lottonl-jumbo-2016",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "Adria Mobil",
-                "team_url": "team/adria-mobil-2015",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2014,
-                "team_name": "Adria Mobil",
-                "team_url": "team/adria-mobil-2014",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2013,
-                "team_name": "Adria Mobil",
-                "team_url": "team/adria-mobil-2013",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 65.0
-    },
-    {
-        "birthdate": "1998-3-2",
-        "height": 1.76,
-        "name": "Jasper Philipsen",
-        "id": "jasper-philipsen",
-        "photo_url": "riders/philipsen.jpg",
-        "nationality": "BE",
-        "place_of_birth": "Ham",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2152.0,
-                "rank": 5
-            },
-            {
-                "season": 2022,
-                "points": 1490.0,
-                "rank": 7
-            },
-            {
-                "season": 2021,
-                "points": 1564.0,
-                "rank": 7
-            },
-            {
-                "season": 2020,
-                "points": 636.0,
-                "rank": 46
-            },
-            {
-                "season": 2019,
-                "points": 772.0,
-                "rank": 66
-            },
-            {
-                "season": 2018,
-                "points": 318.0,
-                "rank": 191
-            },
-            {
-                "season": 2017,
-                "points": 96.0,
-                "rank": 630
-            }
-        ],
-        "points_per_speciality": {
-            "one_day_races": 3278,
-            "gc": 349,
-            "time_trial": 152,
-            "sprint": 4468,
-            "climber": 1386
-        },
-        "teams_history": [
-            {
-                "season": 2024,
-                "team_name": "Alpecin - Deceuninck",
-                "team_url": "team/alpecin-deceuninck-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Alpecin - Deceuninck",
-                "team_url": "team/alpecin-deceuninck-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Alpecin - Fenix",
-                "team_url": "team/alpecin-fenix-2022",
-                "class": "PRT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Alpecin - Fenix",
-                "team_url": "team/alpecin-fenix-2021",
-                "class": "PRT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Hagens Berman Axeon",
-                "team_url": "team/hagens-berman-axeon-2018",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "BMC Development Team",
-                "team_url": "team/bmc-development-team-2017",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Acrog - Balen BC Junior",
-                "team_url": "team/acrog-balen-bc-2016",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "Balen BC Junior",
-                "team_url": "team/balen-bc-2015",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
-        "weight": 75.0
     },
     {
         "birthdate": "1994-9-15",
         "height": 1.9,
         "name": "Wout van Aert",
         "id": "wout-van-aert",
+        "team_name": "Jumbo - Visma",
         "photo_url": "riders/wout.jpg",
         "nationality": "BE",
         "place_of_birth": "Herentals",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2060.0,
-                "rank": 6
-            },
-            {
-                "season": 2022,
-                "points": 2862.0,
-                "rank": 2
-            },
-            {
-                "season": 2021,
-                "points": 2813.0,
-                "rank": 2
-            },
-            {
-                "season": 2020,
-                "points": 1834.0,
-                "rank": 3
-            },
-            {
-                "season": 2019,
-                "points": 852.0,
-                "rank": 53
-            },
-            {
-                "season": 2018,
-                "points": 551.0,
-                "rank": 95
-            },
-            {
-                "season": 2017,
-                "points": 456.0,
-                "rank": 116
-            },
-            {
-                "season": 2016,
-                "points": 254.0,
-                "rank": 247
-            },
-            {
-                "season": 2015,
-                "points": 43.0,
-                "rank": 936
-            },
-            {
-                "season": 2014,
-                "points": 18.0,
-                "rank": 1312
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 6810,
             "gc": 1091,
@@ -833,545 +87,17 @@
             "sprint": 1882,
             "climber": 4133
         },
-        "teams_history": [
-            {
-                "season": 2026,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2026",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2025,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "Team Visma | Lease a Bike",
-                "team_url": "team/team-visma-lease-a-bike-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Team Jumbo-Visma",
-                "team_url": "team/team-jumbo-visma-2019",
-                "class": "WT",
-                "since": "03-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Vérandas Willems-Crelan ",
-                "team_url": "team/verandas-willems-crelan-2018",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "10-01"
-            },
-            {
-                "season": 2017,
-                "team_name": "Vérandas Willems-Crelan ",
-                "team_url": "team/verandas-willems-crelan-2017",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Crelan - Vastgoedservice",
-                "team_url": "team/crelan-vastgoedservice-2016",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "Pauwels - Vastgoedservice",
-                "team_url": "team/pauwels-vastgoedservice-2015",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2014,
-                "team_name": "Vastgoedservice - Golden Palace",
-                "team_url": "team/vastgoedservice-golden-palace-2014",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2013,
-                "team_name": "Telenet - Fidea ",
-                "team_url": "team/telenet-fidea-2013",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 78.0
-    },
-    {
-        "birthdate": "1995-12-18",
-        "height": 1.8,
-        "name": "Mads Pedersen",
-        "id": "mads-pedersen",
-        "photo_url": "riders/pedersen.jpg",
-        "nationality": "DK",
-        "place_of_birth": "Tølløse",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 2009.0,
-                "rank": 7
-            },
-            {
-                "season": 2022,
-                "points": 1500.0,
-                "rank": 6
-            },
-            {
-                "season": 2021,
-                "points": 645.0,
-                "rank": 65
-            },
-            {
-                "season": 2020,
-                "points": 775.0,
-                "rank": 28
-            },
-            {
-                "season": 2019,
-                "points": 529.0,
-                "rank": 110
-            },
-            {
-                "season": 2018,
-                "points": 642.0,
-                "rank": 80
-            },
-            {
-                "season": 2017,
-                "points": 404.0,
-                "rank": 135
-            },
-            {
-                "season": 2016,
-                "points": 155.0,
-                "rank": 404
-            },
-            {
-                "season": 2015,
-                "points": 120.0,
-                "rank": 513
-            },
-            {
-                "season": 2014,
-                "points": 15.0,
-                "rank": 1411
-            }
-        ],
-        "points_per_speciality": {
-            "one_day_races": 3101,
-            "gc": 1038,
-            "time_trial": 1457,
-            "sprint": 2358,
-            "climber": 1860
-        },
-        "teams_history": [
-            {
-                "season": 2025,
-                "team_name": "Lidl - Trek",
-                "team_url": "team/lidl-trek-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "Lidl - Trek",
-                "team_url": "team/lidl-trek-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2018",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "Trek - Segafredo",
-                "team_url": "team/trek-segafredo-2017",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Stölting Service Group",
-                "team_url": "team/stolting-service-group-2016",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "Cult Energy Pro Cycling",
-                "team_url": "team/cult-energy-pro-cycling-2015",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2014,
-                "team_name": "Cult Energy Vital Water",
-                "team_url": "team/cult-energy-vital-water-2014",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2013,
-                "team_name": "Team Roskilde Junior",
-                "team_url": "team/team-roskilde-junior-2013",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2012,
-                "team_name": "Team Roskilde Junior",
-                "team_url": "team/team-roskilde-junior-2012",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
-        "weight": 70.0
-    },
-    {
-        "birthdate": "1995-1-19",
-        "height": 1.84,
-        "name": "Mathieu van der Poel",
-        "id": "mathieu-van-der-poel",
-        "photo_url": "riders/vanderpoel.jpg",
-        "nationality": "NL",
-        "place_of_birth": "Kapellen",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 1719.0,
-                "rank": 11
-            },
-            {
-                "season": 2022,
-                "points": 1236.0,
-                "rank": 18
-            },
-            {
-                "season": 2021,
-                "points": 1488.0,
-                "rank": 10
-            },
-            {
-                "season": 2020,
-                "points": 1136.0,
-                "rank": 8
-            },
-            {
-                "season": 2019,
-                "points": 1337.0,
-                "rank": 16
-            },
-            {
-                "season": 2018,
-                "points": 391.0,
-                "rank": 153
-            },
-            {
-                "season": 2017,
-                "points": 335.0,
-                "rank": 170
-            },
-            {
-                "season": 2016,
-                "points": 30.0,
-                "rank": 1149
-            },
-            {
-                "season": 2015,
-                "points": 80.0,
-                "rank": 649
-            },
-            {
-                "season": 2014,
-                "points": 158.0,
-                "rank": 391
-            }
-        ],
-        "points_per_speciality": {
-            "one_day_races": 5602,
-            "gc": 984,
-            "time_trial": 906,
-            "sprint": 1424,
-            "climber": 2474
-        },
-        "teams_history": [
-            {
-                "season": 2025,
-                "team_name": "Alpecin - Deceuninck",
-                "team_url": "team/alpecin-deceuninck-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "Alpecin - Deceuninck",
-                "team_url": "team/alpecin-deceuninck-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "Alpecin - Deceuninck",
-                "team_url": "team/alpecin-deceuninck-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "Alpecin - Fenix",
-                "team_url": "team/alpecin-fenix-2022",
-                "class": "PRT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Alpecin - Fenix",
-                "team_url": "team/alpecin-fenix-2021",
-                "class": "PRT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Alpecin - Fenix",
-                "team_url": "team/alpecin-fenix-2020",
-                "class": "PRT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Corendon - Circus",
-                "team_url": "team/corendon-circus-2019",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Corendon - Circus",
-                "team_url": "team/corendon-circus-2018",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "Beobank - Corendon",
-                "team_url": "team/beobank-corendon-2017",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Beobank - Corendon",
-                "team_url": "team/beobank-corendon-2016",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "BKCP - Powerplus",
-                "team_url": "team/bkcp-powerplus-2015",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2014,
-                "team_name": "BKCP - Powerplus",
-                "team_url": "team/bkcp-powerplus-2014",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2012,
-                "team_name": "IKO Enertherm - BKCP",
-                "team_url": "team/iko-enertherm-bkcp-2012",
-                "class": "CLUB",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
-        "weight": 75.0
     },
     {
         "birthdate": "1992-8-7",
         "height": 1.73,
         "name": "Adam Yates",
         "id": "adam-yates",
+        "team_name": "UAE Team Emirates",
         "photo_url": "riders/adamYates.jpg",
         "nationality": "GB",
         "place_of_birth": "Bury",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 1947.0,
-                "rank": 8
-            },
-            {
-                "season": 2022,
-                "points": 1132.0,
-                "rank": 23
-            },
-            {
-                "season": 2021,
-                "points": 1500.0,
-                "rank": 9
-            },
-            {
-                "season": 2020,
-                "points": 690.0,
-                "rank": 38
-            },
-            {
-                "season": 2019,
-                "points": 1306.0,
-                "rank": 20
-            },
-            {
-                "season": 2018,
-                "points": 958.0,
-                "rank": 41
-            },
-            {
-                "season": 2017,
-                "points": 950.0,
-                "rank": 45
-            },
-            {
-                "season": 2016,
-                "points": 734.0,
-                "rank": 54
-            },
-            {
-                "season": 2015,
-                "points": 680.0,
-                "rank": 56
-            },
-            {
-                "season": 2014,
-                "points": 612.0,
-                "rank": 64
-            },
-            {
-                "season": 2013,
-                "points": 31.0,
-                "rank": 1028
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 2261,
             "gc": 5882,
@@ -1379,104 +105,6 @@
             "sprint": 130,
             "climber": 7292
         },
-        "teams_history": [
-            {
-                "season": 2025,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "INEOS Grenadiers",
-                "team_url": "team/ineos-grenadiers-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "INEOS Grenadiers",
-                "team_url": "team/ineos-grenadiers-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Mitchelton-Scott",
-                "team_url": "team/mitchelton-scott-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Mitchelton-Scott",
-                "team_url": "team/mitchelton-scott-2019",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Mitchelton-Scott",
-                "team_url": "team/mitchelton-scott-2018",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "ORICA-Scott",
-                "team_url": "team/orica-scott-2017",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2016,
-                "team_name": "Orica GreenEDGE",
-                "team_url": "team/orica-greenedge-2016",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2015,
-                "team_name": "Orica GreenEDGE",
-                "team_url": "team/orica-greenedge-2015",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2014,
-                "team_name": "Orica GreenEDGE",
-                "team_url": "team/orica-greenedge-2014",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 58.0
     },
     {
@@ -1484,46 +112,10 @@
         "height": 1.78,
         "name": "João Almeida",
         "id": "joao-almeida",
+        "team_name": "UAE Team Emirates",
         "photo_url": "riders/almeida.jpg",
         "nationality": "PT",
         "place_of_birth": "Caldas da Rainha",
-        "points_per_season_history": [
-            {
-                "season": 2023,
-                "points": 1478.0,
-                "rank": 13
-            },
-            {
-                "season": 2022,
-                "points": 978.0,
-                "rank": 32
-            },
-            {
-                "season": 2021,
-                "points": 1714.0,
-                "rank": 5
-            },
-            {
-                "season": 2020,
-                "points": 875.0,
-                "rank": 20
-            },
-            {
-                "season": 2019,
-                "points": 119.0,
-                "rank": 509
-            },
-            {
-                "season": 2018,
-                "points": 55.0,
-                "rank": 849
-            },
-            {
-                "season": 2017,
-                "points": 46.0,
-                "rank": 960
-            }
-        ],
         "points_per_speciality": {
             "one_day_races": 405,
             "gc": 3224,
@@ -1531,88 +123,1680 @@
             "sprint": 152,
             "climber": 3356
         },
-        "teams_history": [
-            {
-                "season": 2026,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2026",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2025,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2025",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2024,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2024",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2023,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2023",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2022,
-                "team_name": "UAE Team Emirates",
-                "team_url": "team/uae-team-emirates-2022",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2021,
-                "team_name": "Deceuninck - Quick Step",
-                "team_url": "team/deceuninck-quick-step-2021",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2020,
-                "team_name": "Deceuninck - Quick Step",
-                "team_url": "team/deceuninck-quick-step-2020",
-                "class": "WT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2019,
-                "team_name": "Hagens Berman Axeon",
-                "team_url": "team/hagens-berman-axeon-2019",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2018,
-                "team_name": "Hagens Berman Axeon",
-                "team_url": "team/hagens-berman-axeon-2018",
-                "class": "PCT",
-                "since": "01-01",
-                "until": "12-31"
-            },
-            {
-                "season": 2017,
-                "team_name": "Unieuro Trevigiani - Hemus 1896",
-                "team_url": "team/unieuro-trevigiani-hemus-1896-2017",
-                "class": "CT",
-                "since": "01-01",
-                "until": "12-31"
-            }
-        ],
         "weight": 63.0
+    },
+    {
+        "birthdate": "1989-7-15",
+        "height": 1.75,
+        "name": "Diego Ulissi",
+        "nationality": "IT",
+        "id": "ulissi-diego",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/ulissi.jpg",
+        "place_of_birth": "Cecina",
+        "points_per_speciality": {
+            "one_day_races": 4958,
+            "gc": 4906,
+            "time_trial": 1055,
+            "sprint": 899,
+            "climber": 6894
+        },
+        "weight": 63.0
+    },
+    {
+        "birthdate": "1989-9-12",
+        "height": 1.73,
+        "name": "Rafał Majka",
+        "nationality": "PL",
+        "id": "majka-rafał",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/majka.jpg",
+        "place_of_birth": "Zegartowice",
+        "points_per_speciality": {
+            "one_day_races": 1167,
+            "gc": 5323,
+            "time_trial": 869,
+            "sprint": 110,
+            "climber": 7216
+        },
+        "weight": 62.0
+    },
+    {
+        "birthdate": "1991-5-10",
+        "height": 1.82,
+        "name": "Tim Wellens",
+        "nationality": "BE",
+        "id": "tim-wellens",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/wellens.jpg",
+        "place_of_birth": "Sint-Truiden",
+        "points_per_speciality": {
+            "one_day_races": 3409,
+            "gc": 3828,
+            "time_trial": 1140,
+            "sprint": 284,
+            "climber": 3810
+        },
+        "weight": 71.0
+    },
+    {
+        "birthdate": "1989-8-2",
+        "height": 1.79,
+        "name": "Matteo Trentin",
+        "nationality": "IT",
+        "id": "trentin-matteo",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/trentin.jpg",
+        "place_of_birth": "Borgo Valsugana",
+        "points_per_speciality": {
+            "one_day_races": 4931,
+            "gc": 712,
+            "time_trial": 288,
+            "sprint": 2959,
+            "climber": 3578
+        },
+        "weight": 74.0
+    },
+    {
+        "birthdate": "1994-1-17",
+        "height": 1.8,
+        "name": "Pascal Ackermann",
+        "nationality": "DE",
+        "id": "ackermann-pascal",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/ackermann.jpg",
+        "place_of_birth": "Kandel",
+        "points_per_speciality": {
+            "one_day_races": 3313,
+            "gc": 308,
+            "time_trial": 68,
+            "sprint": 3469,
+            "climber": 1338
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1990-4-7",
+        "height": 1.8,
+        "name": "George Bennett",
+        "nationality": "NZ",
+        "id": "bennett-george",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/bennett.jpg",
+        "place_of_birth": "Nelson",
+        "points_per_speciality": {
+            "one_day_races": 772,
+            "gc": 3262,
+            "time_trial": 246,
+            "sprint": 68,
+            "climber": 3248
+        },
+        "weight": 58.0
+    },
+    {
+        "birthdate": "1998-8-24",
+        "height": 1.74,
+        "name": "Marc Hirschi",
+        "nationality": "CH",
+        "id": "hirschi-marc",
+        "team_name": "UAE Team Emirates",
+        "photo_url": "riders/hirschi.jpg",
+        "place_of_birth": "Bern",
+        "points_per_speciality": {
+            "one_day_races": 3080,
+            "gc": 1101,
+            "time_trial": 278,
+            "sprint": 62,
+            "climber": 2574
+        },
+        "weight": 61.0
+    },
+    {
+        "birthdate": "1986-5-31",
+        "height": 1.9,
+        "name": "Robert Gesink",
+        "nationality": "NL",
+        "id": "robert-gesink",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/gesink.jpg",
+        "place_of_birth": "Varsseveld",
+        "points_per_speciality": {
+            "one_day_races": 2888,
+            "gc": 5162,
+            "time_trial": 1196,
+            "sprint": 658,
+            "climber": 5821
+        },
+        "weight": 70.0
+    },
+    {
+        "birthdate": "1991-3-25",
+        "height": 1.85,
+        "name": "Wilco Kelderman",
+        "nationality": "NL",
+        "id": "wilco-kelderman",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/kelderman.jpg",
+        "place_of_birth": "Amersfoort",
+        "points_per_speciality": {
+            "one_day_races": 648,
+            "gc": 5538,
+            "time_trial": 2544,
+            "sprint": 475,
+            "climber": 5877
+        },
+        "weight": 65.0
+    },
+    {
+        "birthdate": "1990-5-28",
+        "height": 1.82,
+        "name": "Rohan Dennis",
+        "nationality": "AU",
+        "id": "rohan-dennis",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/dennis.jpg",
+        "place_of_birth": "Adelaide",
+        "points_per_speciality": {
+            "one_day_races": 50,
+            "gc": 2793,
+            "time_trial": 6340,
+            "sprint": 178,
+            "climber": 1792
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1994-3-11",
+        "height": 1.9,
+        "name": "Tiesj Benoot",
+        "nationality": "BE",
+        "id": "tiesj-benoot",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/benoot.jpg",
+        "place_of_birth": "Ghent",
+        "points_per_speciality": {
+            "one_day_races": 4371,
+            "gc": 1860,
+            "time_trial": 83,
+            "sprint": 842,
+            "climber": 4150
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1987-6-7",
+        "height": 1.78,
+        "name": "Steven Kruijswijk",
+        "nationality": "NL",
+        "id": "steven-kruijswijk",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/kruijswijk.jpg",
+        "place_of_birth": "Nuenen",
+        "points_per_speciality": {
+            "one_day_races": 339,
+            "gc": 4364,
+            "time_trial": 1440,
+            "sprint": 274,
+            "climber": 4672
+        },
+        "weight": 63.0
+    },
+    {
+        "birthdate": "1992-12-11",
+        "height": 1.91,
+        "name": "Christophe Laporte",
+        "nationality": "FR",
+        "id": "christophe-laporte",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/laporte.jpg",
+        "place_of_birth": "La Seyne-sur-Mer",
+        "points_per_speciality": {
+            "one_day_races": 3566,
+            "gc": 785,
+            "time_trial": 851,
+            "sprint": 2289,
+            "climber": 1246
+        },
+        "weight": 76.0
+    },
+    {
+        "birthdate": "1994-9-13",
+        "height": 1.82,
+        "name": "Sepp Kuss",
+        "nationality": "US",
+        "id": "sepp-kuss",
+        "team_name": "Jumbo - Visma",
+        "photo_url": "riders/kuss.jpg",
+        "place_of_birth": "Durango",
+        "points_per_speciality": {
+            "one_day_races": 164,
+            "gc": 2187,
+            "time_trial": 300,
+            "sprint": 42,
+            "climber": 3181
+        },
+        "weight": 61.0
+    },
+    {
+        "birthdate": "1992-6-11",
+        "height": 1.73,
+        "name": "Julian Alaphilippe",
+        "nationality": "FR",
+        "id": "julian-alaphilippe",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/alaphilippe.jpg",
+        "place_of_birth": "Saint-Amand-Montrond",
+        "points_per_speciality": {
+            "one_day_races": 6183,
+            "gc": 2601,
+            "time_trial": 1331,
+            "sprint": 677,
+            "climber": 7399
+        },
+        "weight": 62.0
+    },
+    {
+        "birthdate": "1991-4-10",
+        "height": 1.8,
+        "name": "Yves Lampaert",
+        "nationality": "BE",
+        "id": "yves-lampaert",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/lampaert.jpg",
+        "place_of_birth": "Izegem",
+        "points_per_speciality": {
+            "one_day_races": 3349,
+            "gc": 1359,
+            "time_trial": 2199,
+            "sprint": 1635,
+            "climber": 856
+        },
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1992-10-30",
+        "height": 1.88,
+        "name": "Tim Merlier",
+        "nationality": "BE",
+        "id": "tim-merlier",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/merlier.jpg",
+        "place_of_birth": "Wortegem-Petegem",
+        "points_per_speciality": {
+            "one_day_races": 2968,
+            "gc": 79,
+            "time_trial": 3,
+            "sprint": 3654,
+            "climber": 152
+        },
+        "weight": 76.0
+    },
+    {
+        "birthdate": "1993-7-10",
+        "height": 1.79,
+        "name": "Florian Sénéchal",
+        "nationality": "FR",
+        "id": "florian-senechal",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/senechal.jpg",
+        "place_of_birth": "Cambrai",
+        "points_per_speciality": {
+            "one_day_races": 3032,
+            "gc": 726,
+            "time_trial": 202,
+            "sprint": 1638,
+            "climber": 999
+        },
+        "weight": 77.0
+    },
+    {
+        "birthdate": "1996-8-31",
+        "height": 1.81,
+        "name": "Fabio Jakobsen",
+        "nationality": "NL",
+        "id": "fabio-jakobsen",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/jakobsen.jpg",
+        "place_of_birth": "Gorinchem",
+        "points_per_speciality": {
+            "one_day_races": 1773,
+            "gc": 89,
+            "time_trial": 38,
+            "sprint": 3553,
+            "climber": 351
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1983-7-22",
+        "height": 1.77,
+        "name": "Dries Devenyns",
+        "nationality": "BE",
+        "id": "dries-devenyns",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/devenyns.jpg",
+        "place_of_birth": "Leuven",
+        "points_per_speciality": {
+            "one_day_races": 1594,
+            "gc": 1866,
+            "time_trial": 796,
+            "sprint": 665,
+            "climber": 1788
+        },
+        "weight": 65.0
+    },
+    {
+        "birthdate": "1995-2-8",
+        "height": 1.92,
+        "name": "Kasper Asgreen",
+        "nationality": "DK",
+        "id": "kasper-asgreen",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/asgreen.jpg",
+        "place_of_birth": "Kolding",
+        "points_per_speciality": {
+            "one_day_races": 1531,
+            "gc": 673,
+            "time_trial": 2079,
+            "sprint": 334,
+            "climber": 1322
+        },
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1985-4-30",
+        "height": 1.83,
+        "name": "Michael Mørkøv",
+        "nationality": "DK",
+        "id": "michael-morkov",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/morkov.jpg",
+        "place_of_birth": "Kokkedal",
+        "points_per_speciality": {
+            "one_day_races": 1214,
+            "gc": 943,
+            "time_trial": 341,
+            "sprint": 1512,
+            "climber": 462
+        },
+        "weight": 71.0
+    },
+    {
+        "birthdate": "1990-10-25",
+        "height": 1.84,
+        "name": "Mattia Cattaneo",
+        "nationality": "IT",
+        "id": "mattia-cattaneo",
+        "team_name": "Soudal - Quick Step",
+        "photo_url": "riders/cattaneo.jpg",
+        "place_of_birth": "Alzano Lombardo",
+        "points_per_speciality": {
+            "one_day_races": 712,
+            "gc": 1420,
+            "time_trial": 1717,
+            "sprint": 138,
+            "climber": 1656
+        },
+        "weight": 67.0
+    },
+    {
+        "birthdate": "1989-2-7",
+        "height": 1.78,
+        "name": "Elia Viviani",
+        "nationality": "IT",
+        "id": "elia-viviani",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/viviani.jpg",
+        "place_of_birth": "Isola della Scala",
+        "points_per_speciality": {
+            "one_day_races": 5044,
+            "gc": 963,
+            "time_trial": 160,
+            "sprint": 7612,
+            "climber": 2086
+        },
+        "weight": 67.0
+    },
+    {
+        "birthdate": "1990-6-2",
+        "height": 1.76,
+        "name": "Michał Kwiatkowski",
+        "nationality": "PL",
+        "id": "michal-kwiatkowski",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/kwiatkowski.jpg",
+        "place_of_birth": "Chełmża",
+        "points_per_speciality": {
+            "one_day_races": 4549,
+            "gc": 3630,
+            "time_trial": 3505,
+            "sprint": 731,
+            "climber": 5234
+        },
+        "weight": 68.0
+    },
+    {
+        "birthdate": "1986-5-25",
+        "height": 1.83,
+        "name": "Geraint Thomas",
+        "nationality": "GB",
+        "id": "geraint-thomas",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/geraint.jpg",
+        "place_of_birth": "Cardiff",
+        "points_per_speciality": {
+            "one_day_races": 1262,
+            "gc": 6093,
+            "time_trial": 5263,
+            "sprint": 909,
+            "climber": 5526
+        },
+        "weight": 71.0
+    },
+    {
+        "birthdate": "1997-1-13",
+        "height": 1.75,
+        "name": "Egan Bernal",
+        "nationality": "CO",
+        "id": "egan-bernal",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/bernal.jpg",
+        "place_of_birth": "Bogotá",
+        "points_per_speciality": {
+            "one_day_races": 899,
+            "gc": 3728,
+            "time_trial": 520,
+            "sprint": 118,
+            "climber": 3900
+        },
+        "weight": 60.0
+    },
+    {
+        "birthdate": "1987-11-5",
+        "height": 1.79,
+        "name": "Ben Swift",
+        "nationality": "GB",
+        "id": "ben-swift",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/swift.jpg",
+        "place_of_birth": "Rotherham",
+        "points_per_speciality": {
+            "one_day_races": 1871,
+            "gc": 902,
+            "time_trial": 87,
+            "sprint": 2760,
+            "climber": 1660
+        },
+        "weight": 69.0
+    },
+    {
+        "birthdate": "1987-4-27",
+        "height": 1.71,
+        "name": "Jonathan Castroviejo",
+        "nationality": "ES",
+        "id": "jonathan-castroviejo",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/castroviejo.jpg",
+        "place_of_birth": "Getxo",
+        "points_per_speciality": {
+            "one_day_races": 253,
+            "gc": 2021,
+            "time_trial": 4463,
+            "sprint": 74,
+            "climber": 1282
+        },
+        "weight": 62.0
+    },
+    {
+        "birthdate": "1996-7-25",
+        "height": 1.93,
+        "name": "Filippo Ganna",
+        "nationality": "IT",
+        "id": "filippo-ganna",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/ganna.jpg",
+        "place_of_birth": "Verbania",
+        "points_per_speciality": {
+            "one_day_races": 570,
+            "gc": 698,
+            "time_trial": 4496,
+            "sprint": 326,
+            "climber": 594
+        },
+        "weight": 83.0
+    },
+    {
+        "birthdate": "1999-7-30",
+        "height": 1.7,
+        "name": "Thomas Pidcock",
+        "nationality": "GB",
+        "id": "thomas-pidcock",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/pidcock.jpg",
+        "place_of_birth": "Leeds",
+        "points_per_speciality": {
+            "one_day_races": 1675,
+            "gc": 591,
+            "time_trial": 65,
+            "sprint": 200,
+            "climber": 1772
+        },
+        "weight": 58.0
+    },
+    {
+        "birthdate": "2002-4-19",
+        "height": 1.83,
+        "name": "Magnus Sheffield",
+        "nationality": "US",
+        "id": "sheffield-magnus",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/sheffield.jpg",
+        "place_of_birth": "Pittsford",
+        "points_per_speciality": {
+            "one_day_races": 292,
+            "gc": 610,
+            "time_trial": 627,
+            "sprint": 40,
+            "climber": 414
+        },
+        "weight": 74.0
+    },
+    {
+        "birthdate": "2004-2-15",
+        "height": 1.94,
+        "name": "Joshua Tarling",
+        "nationality": "GB",
+        "id": "joshua-tarling",
+        "team_name": "INEOS Grenadiers",
+        "photo_url": "riders/tarling.jpg",
+        "place_of_birth": "Aberaeron",
+        "points_per_speciality": {
+            "one_day_races": 10,
+            "gc": 125,
+            "time_trial": 500,
+            "sprint": 0,
+            "climber": 10
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1986-11-26",
+        "height": 1.84,
+        "name": "Bauke Mollema",
+        "nationality": "NL",
+        "id": "bauke-mollema",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/mollema.jpg",
+        "place_of_birth": "Groningen",
+        "points_per_speciality": {
+            "one_day_races": 4906,
+            "gc": 5945,
+            "time_trial": 2042,
+            "sprint": 657,
+            "climber": 9686
+        },
+        "weight": 64.0
+    },
+    {
+        "birthdate": "1992-4-17",
+        "height": 1.87,
+        "name": "Jasper Stuyven",
+        "nationality": "BE",
+        "id": "jasper-stuyven",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/stuyven.jpg",
+        "place_of_birth": "Leuven",
+        "points_per_speciality": {
+            "one_day_races": 4273,
+            "gc": 1153,
+            "time_trial": 244,
+            "sprint": 2066,
+            "climber": 2698
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1995-12-18",
+        "height": 1.8,
+        "name": "Mads Pedersen",
+        "nationality": "DK",
+        "id": "mads-pedersen",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/pedersen.jpg",
+        "place_of_birth": "Tølløse",
+        "points_per_speciality": {
+            "one_day_races": 3101,
+            "gc": 1038,
+            "time_trial": 1457,
+            "sprint": 2358,
+            "climber": 1860
+        },
+        "weight": 70.0
+    },
+    {
+        "birthdate": "1991-4-30",
+        "height": 1.83,
+        "name": "Edward Theuns",
+        "nationality": "BE",
+        "id": "edward-theuns",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/theuns.jpg",
+        "place_of_birth": "Gent",
+        "points_per_speciality": {
+            "one_day_races": 2516,
+            "gc": 620,
+            "time_trial": 129,
+            "sprint": 2887,
+            "climber": 682
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1994-12-20",
+        "height": 1.76,
+        "name": "Giulio Ciccone",
+        "nationality": "IT",
+        "id": "giulio-ciccone",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/ciccone.jpg",
+        "place_of_birth": "Chieti",
+        "points_per_speciality": {
+            "one_day_races": 1111,
+            "gc": 1238,
+            "time_trial": 90,
+            "sprint": 74,
+            "climber": 3246
+        },
+        "weight": 58.0
+    },
+    {
+        "birthdate": "2000-9-26",
+        "height": 1.8,
+        "name": "Mattias Skjelmose",
+        "nationality": "DK",
+        "id": "mattias-skjelmose",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/skjelmose.jpg",
+        "place_of_birth": "Copenhagen",
+        "points_per_speciality": {
+            "one_day_races": 858,
+            "gc": 1425,
+            "time_trial": 652,
+            "sprint": 118,
+            "climber": 1776
+        },
+        "weight": 65.0
+    },
+    {
+        "birthdate": "2001-5-8",
+        "height": 1.85,
+        "name": "Quinn Simmons",
+        "nationality": "US",
+        "id": "quinn-simmons",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/simmons.jpg",
+        "place_of_birth": "Durango",
+        "points_per_speciality": {
+            "one_day_races": 343,
+            "gc": 366,
+            "time_trial": 4,
+            "sprint": 87,
+            "climber": 552
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1997-7-31",
+        "height": 1.7,
+        "name": "Juan Pedro López",
+        "nationality": "ES",
+        "id": "juan-pedro",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/juan-pedro.jpg",
+        "place_of_birth": "Lebrija",
+        "points_per_speciality": {
+            "one_day_races": 54,
+            "gc": 651,
+            "time_trial": 17,
+            "sprint": 2,
+            "climber": 542
+        },
+        "weight": 60.0
+    },
+    {
+        "birthdate": "2002-11-12",
+        "height": 1.76,
+        "name": "Thibau Nys",
+        "nationality": "BE",
+        "id": "thibau-nys",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/nys.jpg",
+        "place_of_birth": "Bonheiden",
+        "points_per_speciality": {
+            "one_day_races": 182,
+            "gc": 125,
+            "time_trial": 42,
+            "sprint": 142,
+            "climber": 254
+        },
+        "weight": 64.0
+    },
+    {
+        "birthdate": "2000-8-26",
+        "height": 1.88,
+        "name": "Filippo Baroncini",
+        "nationality": "IT",
+        "id": "filippo-baroncini",
+        "team_name": "Lidl - Trek",
+        "photo_url": "riders/baroncini.jpg",
+        "place_of_birth": "Massa Lombarda",
+        "points_per_speciality": {
+            "one_day_races": 197,
+            "gc": 163,
+            "time_trial": 114,
+            "sprint": 34,
+            "climber": 172
+        },
+        "weight": 74.0
+    },
+    {
+        "birthdate": "1989-12-13",
+        "height": 1.72,
+        "name": "Mikel Landa",
+        "nationality": "ES",
+        "id": "mikel-landa",
+        "photo_url": "riders/landa.jpg",
+        "team_name": "Bahrain - Victorious",
+        "place_of_birth": "Murgia",
+        "points_per_speciality": {
+            "one_day_races": 965,
+            "gc": 5425,
+            "time_trial": 204,
+            "sprint": 102,
+            "climber": 6620
+        },
+        "weight": 61.0
+    },
+    {
+        "birthdate": "1987-10-1",
+        "height": 1.86,
+        "name": "Wout Poels",
+        "nationality": "NL",
+        "id": "wout-poels",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/poels.jpg",
+        "place_of_birth": "Venray",
+        "points_per_speciality": {
+            "one_day_races": 1023,
+            "gc": 4545,
+            "time_trial": 916,
+            "sprint": 301,
+            "climber": 5524
+        },
+        "weight": 66.0
+    },
+    {
+        "birthdate": "1987-10-12",
+        "height": 1.79,
+        "name": "Damiano Caruso",
+        "nationality": "IT",
+        "id": "damiano-caruso",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/caruso.jpg",
+        "place_of_birth": "Ragusa",
+        "points_per_speciality": {
+            "one_day_races": 835,
+            "gc": 4392,
+            "time_trial": 1256,
+            "sprint": 605,
+            "climber": 5260
+        },
+        "weight": 67.0
+    },
+    {
+        "birthdate": "1990-2-25",
+        "height": 1.74,
+        "name": "Pello Bilbao",
+        "nationality": "ES",
+        "id": "pello-bilbao",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/bilbao.jpg",
+        "place_of_birth": "Guernica",
+        "points_per_speciality": {
+            "one_day_races": 1207,
+            "gc": 3937,
+            "time_trial": 989,
+            "sprint": 466,
+            "climber": 5341
+        },
+        "weight": 60.0
+    },
+    {
+        "birthdate": "1994-10-19",
+        "height": 1.86,
+        "name": "Matej Mohorič",
+        "nationality": "SI",
+        "id": "matej-mohoric",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/mohoric.jpg",
+        "place_of_birth": "Kranj",
+        "points_per_speciality": {
+            "one_day_races": 2615,
+            "gc": 2033,
+            "time_trial": 304,
+            "sprint": 688,
+            "climber": 2943
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1993-9-6",
+        "height": 1.9,
+        "name": "Jack Haig",
+        "nationality": "AU",
+        "id": "jack-haig",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/haig.jpg",
+        "place_of_birth": "Southport",
+        "points_per_speciality": {
+            "one_day_races": 655,
+            "gc": 2808,
+            "time_trial": 299,
+            "sprint": 96,
+            "climber": 2857
+        },
+        "weight": 67.0
+    },
+    {
+        "birthdate": "1999-9-26",
+        "height": 1.74,
+        "name": "Santiago Buitrago",
+        "nationality": "CO",
+        "id": "santiago-buitrago",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/buitrago.jpg",
+        "place_of_birth": "Bogotá",
+        "points_per_speciality": {
+            "one_day_races": 236,
+            "gc": 943,
+            "time_trial": 32,
+            "sprint": 43,
+            "climber": 1217
+        },
+        "weight": 59.0
+    },
+    {
+        "birthdate": "2000-10-1",
+        "height": 1.93,
+        "name": "Jonathan Milan",
+        "nationality": "IT",
+        "id": "jonathan-milan",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/milan.jpg",
+        "place_of_birth": "Tolmezzo",
+        "points_per_speciality": {
+            "one_day_races": 63,
+            "gc": 80,
+            "time_trial": 77,
+            "sprint": 404,
+            "climber": 416
+        },
+        "weight": 84.0
+    },
+    {
+        "birthdate": "1992-11-4",
+        "height": 1.84,
+        "name": "Jasha Sütterlin",
+        "nationality": "DE",
+        "id": "jasha-sutterlin",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/sutterlin.jpg",
+        "place_of_birth": "Freiburg im Breisgau",
+        "points_per_speciality": {
+            "one_day_races": 340,
+            "gc": 667,
+            "time_trial": 1025,
+            "sprint": 170,
+            "climber": 316
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1990-8-7",
+        "height": 1.68,
+        "name": "Hermann Pernsteiner",
+        "nationality": "AT",
+        "id": "hermann-pernsteiner",
+        "team_name": "Bahrain - Victorious",
+        "photo_url": "riders/pernsteiner.jpg",
+        "place_of_birth": "Oberwart",
+        "points_per_speciality": {
+            "one_day_races": 287,
+            "gc": 1041,
+            "time_trial": 50,
+            "sprint": 16,
+            "climber": 1051
+        },
+        "weight": 55.0
+    },
+    {
+        "birthdate": "1991-8-26",
+        "height": 1.81,
+        "name": "Arnaud Démare",
+        "nationality": "FR",
+        "id": "arnaud-demare",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/demare.jpg",
+        "place_of_birth": "Beauvais",
+        "points_per_speciality": {
+            "one_day_races": 6409,
+            "gc": 1518,
+            "time_trial": 475,
+            "sprint": 7643,
+            "climber": 1842
+        },
+        "weight": 76.0
+    },
+    {
+        "birthdate": "1990-5-29",
+        "height": 1.8,
+        "name": "Thibaut Pinot",
+        "nationality": "FR",
+        "id": "thibaut-pinot",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/pinot.jpg",
+        "place_of_birth": "Lure",
+        "points_per_speciality": {
+            "one_day_races": 1919,
+            "gc": 6903,
+            "time_trial": 1544,
+            "sprint": 170,
+            "climber": 8798
+        },
+        "weight": 63.0
+    },
+    {
+        "birthdate": "1993-11-16",
+        "height": 1.93,
+        "name": "Stefan Küng",
+        "nationality": "CH",
+        "id": "stefan-kung",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/kung.jpg",
+        "place_of_birth": "Wil",
+        "points_per_speciality": {
+            "one_day_races": 2264,
+            "gc": 1572,
+            "time_trial": 4836,
+            "sprint": 454,
+            "climber": 1414
+        },
+        "weight": 83.0
+    },
+    {
+        "birthdate": "1996-10-10",
+        "height": 1.72,
+        "name": "David Gaudu",
+        "nationality": "FR",
+        "id": "david-gaudu",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/gaudu.jpg",
+        "place_of_birth": "Landivisiau",
+        "points_per_speciality": {
+            "one_day_races": 1500,
+            "gc": 2628,
+            "time_trial": 136,
+            "sprint": 19,
+            "climber": 4067
+        },
+        "weight": 53.0
+    },
+    {
+        "birthdate": "1996-7-12",
+        "height": 1.79,
+        "name": "Valentin Madouas",
+        "nationality": "FR",
+        "id": "valentin-madouas",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/madouas.jpg",
+        "place_of_birth": "Brest",
+        "points_per_speciality": {
+            "one_day_races": 2488,
+            "gc": 1054,
+            "time_trial": 93,
+            "sprint": 136,
+            "climber": 2311
+        },
+        "weight": 71.0
+    },
+    {
+        "birthdate": "1984-12-12",
+        "height": 1.82,
+        "name": "Matthieu Ladagnous",
+        "nationality": "FR",
+        "id": "matthieu-ladagnous",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/ladagnous.jpg",
+        "place_of_birth": "Pau",
+        "points_per_speciality": {
+            "one_day_races": 1441,
+            "gc": 1455,
+            "time_trial": 232,
+            "sprint": 1572,
+            "climber": 503
+        },
+        "weight": 73.0
+    },
+    {
+        "birthdate": "1989-09-17",
+        "height": 1.78,
+        "name": "Rudy Molard",
+        "nationality": "FR",
+        "id": "rudy-molard",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/molard.jpg",
+        "place_of_birth": "Gleizé",
+        "points_per_speciality": {
+            "one_day_races": 1265,
+            "gc": 1568,
+            "time_trial": 161,
+            "sprint": 399,
+            "climber": 2077
+        },
+        "weight": 62.0
+    },
+    {
+        "birthdate": "1985-12-08",
+        "height": 1.9,
+        "name": "Ignatas Konovalovas",
+        "nationality": "LT",
+        "id": "ignatas-konovalovas",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/konovalovas.jpg",
+        "place_of_birth": "Panevėžys",
+        "points_per_speciality": {
+            "one_day_races": 693,
+            "gc": 760,
+            "time_trial": 1324,
+            "sprint": 390,
+            "climber": 180
+        },
+        "weight": 74.0
+    },
+    {
+        "birthdate": "1992-01-06",
+        "height": 1.79,
+        "name": "Quentin Pacher",
+        "nationality": "FR",
+        "id": "quentin-pacher",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/pacher.jpg",
+        "place_of_birth": "Libourne",
+        "points_per_speciality": {
+            "one_day_races": 730,
+            "gc": 852,
+            "time_trial": 84,
+            "sprint": 266,
+            "climber": 1519
+        },
+        "weight": 62.0
+    },
+    {
+        "birthdate": "1997-02-28",
+        "height": 1.74,
+        "name": "Michael Storer",
+        "nationality": "AU",
+        "id": "michael-storer",
+        "team_name": "Groupama - FDJ",
+        "photo_url": "riders/storer.jpg",
+        "place_of_birth": "Perth",
+        "points_per_speciality": {
+            "one_day_races": 399,
+            "gc": 891,
+            "time_trial": 97,
+            "sprint": 120,
+            "climber": 1145
+        },
+        "weight": 63.0
+    },
+    {
+        "birthdate": "1994-07-11",
+        "height": 1.67,
+        "name": "Caleb Ewan",
+        "nationality": "AU",
+        "id": "caleb-ewan",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/ewan.jpg",
+        "place_of_birth": "Sydney",
+        "points_per_speciality": {
+            "one_day_races": 2487,
+            "gc": 285,
+            "time_trial": 148,
+            "sprint": 5269,
+            "climber": 1545
+        },
+        "weight": 69.0
+    },
+    {
+        "birthdate": "1986-11-06",
+        "height": 1.79,
+        "name": "Thomas De Gendt",
+        "nationality": "BE",
+        "id": "thomas-de-gendt",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/gendt.jpg",
+        "place_of_birth": "Sint-Niklaas",
+        "points_per_speciality": {
+            "one_day_races": 248,
+            "gc": 1282,
+            "time_trial": 2230,
+            "sprint": 466,
+            "climber": 2546
+        },
+        "weight": 73.0
+    },
+    {
+        "birthdate": "1991-10-28",
+        "height": 1.73,
+        "name": "Victor Campenaerts",
+        "nationality": "BE",
+        "id": "victor-campenaerts",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/campenaerts.jpg",
+        "place_of_birth": "Hoboken",
+        "points_per_speciality": {
+            "one_day_races": 729,
+            "gc": 886,
+            "time_trial": 3140,
+            "sprint": 330,
+            "climber": 686
+        },
+        "weight": 68.0
+    },
+    {
+        "birthdate": "2002-3-16",
+        "height": 1.82,
+        "name": "Arnaud De Lie",
+        "nationality": "BE",
+        "id": "arnaud-de-lie",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/delie.jpg",
+        "place_of_birth": "Libramont",
+        "points_per_speciality": {
+            "one_day_races": 2785,
+            "gc": 90,
+            "time_trial": 1,
+            "sprint": 1003,
+            "climber": 708
+        },
+        "weight": 78.0
+    },
+    {
+        "birthdate": "1993-11-24",
+        "height": 1.79,
+        "name": "Jasper De Buyst",
+        "nationality": "BE",
+        "id": "jasper-de-buyst",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/de-buyst.jpg",
+        "place_of_birth": "Asse",
+        "points_per_speciality": {
+            "one_day_races": 1645,
+            "gc": 668,
+            "time_trial": 128,
+            "sprint": 1242,
+            "climber": 687
+        },
+        "weight": 72.0
+    },
+    {
+        "birthdate": "1991-6-13",
+        "height": 1.73,
+        "name": "Eduardo Sepúlveda",
+        "nationality": "AR",
+        "id": "eduardo-sepulveda",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/sepulveda.jpg",
+        "place_of_birth": "Rawson",
+        "points_per_speciality": {
+            "one_day_races": 523,
+            "gc": 1409,
+            "time_trial": 392,
+            "sprint": 123,
+            "climber": 859
+        },
+        "weight": 59.0
+    },
+    {
+        "birthdate": "1989-2-19",
+        "height": 1.88,
+        "name": "Rüdiger Selig",
+        "nationality": "DE",
+        "id": "rudiger-selig",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/selig.jpg",
+        "place_of_birth": "Zwenkau",
+        "points_per_speciality": {
+            "one_day_races": 870,
+            "gc": 266,
+            "time_trial": 68,
+            "sprint": 1568,
+            "climber": 135
+        },
+        "weight": 80.0
+    },
+    {
+        "birthdate": "1999-3-12",
+        "height": 1.93,
+        "name": "Florian Vermeersch",
+        "nationality": "BE",
+        "id": "florian-vermeersch",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/vermeersch.jpg",
+        "place_of_birth": "Ghent",
+        "points_per_speciality": {
+            "one_day_races": 1138,
+            "gc": 484,
+            "time_trial": 314,
+            "sprint": 428,
+            "climber": 261
+        },
+        "weight": 85.0
+    },
+    {
+        "birthdate": "1998-6-1",
+        "height": 1.77,
+        "name": "Andreas Kron",
+        "nationality": "DK",
+        "id": "andreas-kron",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/kron.jpg",
+        "place_of_birth": "Albertslund",
+        "points_per_speciality": {
+            "one_day_races": 740,
+            "gc": 439,
+            "time_trial": 6,
+            "sprint": 6,
+            "climber": 1470
+        },
+        "weight": 63.0
+    },
+    {
+        "birthdate": "1987-8-14",
+        "height": 1.9,
+        "name": "Jacopo Guarnieri",
+        "nationality": "IT",
+        "id": "jacopo-guarnieri",
+        "team_name": "Lotto Dstny",
+        "photo_url": "riders/guarnieri.jpg",
+        "places_of_birth": "Vizzolo Predabissi",
+        "points_per_speciality": {
+            "one_day_races": 712,
+            "gc": 366,
+            "time_trial": 1,
+            "sprint": 1316,
+            "climber": 230
+        },
+        "weight": 80.0
+    },
+    {
+        "birthdate": "1990-10-16",
+        "height": 1.78,
+        "name": "Sam Bennett",
+        "nationality": "IE",
+        "id": "sam-bennett",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/sam-bennett.jpg",
+        "place_of_birth": "Wervik",
+        "points_per_speciality": {
+            "one_day_races": 2626,
+            "gc": 336,
+            "time_trial": 105,
+            "sprint": 5738,
+            "climber": 1314
+        },
+        "weight": 73.0
+    },
+    {
+        "birthdate": "1993-7-26",
+        "height": 1.84,
+        "name": "Danny van Poppel",
+        "nationality": "NL",
+        "id": "danny-van-poppel",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/van-poppel.jpg",
+        "place_of_birth": "Moergestel",
+        "points_per_speciality": {
+            "one_day_races": 3023,
+            "gc": 588,
+            "time_trial": 393,
+            "sprint": 4324,
+            "climber": 1100
+        },
+        "weight": 82.0
+    },
+    {
+        "birthdate": "1992-9-22",
+        "height": 1.89,
+        "name": "Bob Jungels",
+        "nationality": "LU",
+        "id": "bob-jungels",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/jungels.jpg",
+        "place_of_birth": "Rollingen",
+        "points_per_speciality": {
+            "one_day_races": 1165,
+            "gc": 2559,
+            "time_trial": 2687,
+            "sprint": 332,
+            "climber": 2540
+        },
+        "weight": 70.0
+    },
+    {
+        "birthdate": "1996-4-23",
+        "height": 1.86,
+        "name": "Aleksandr Vlasov",
+        "nationality": "RU",
+        "id": "aleksandr-vlasov",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/vlasov.jpg",
+        "place_of_birth": "Vyborg",
+        "points_per_speciality": {
+            "one_day_races": 1398,
+            "gc": 2883,
+            "time_trial": 794,
+            "sprint": 86,
+            "climber": 3892
+        },
+        "weight": 68.0
+    },
+    {
+        "birthdate": "1991-10-13",
+        "height": 1.81,
+        "name": "Patrick Konrad",
+        "nationality": "AT",
+        "id": "patrick-konrad",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/patrick-konrad.jpg",
+        "place_of_birth": "Mödling",
+        "points_per_speciality": {
+            "one_day_races": 1394,
+            "gc": 2376,
+            "time_trial": 445,
+            "sprint": 336,
+            "climber": 3474
+        },
+        "weight": 64.0
+    },
+    {
+        "birthdate": "1992-11-18",
+        "height": 1.8,
+        "name": "Emanuel Buchmann",
+        "nationality": "DE",
+        "id": "emanuel-buchmann",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/buchmann.jpg",
+        "place_of_birth": "Ravensburg",
+        "points_per_speciality": {
+            "one_day_races": 766,
+            "gc": 3016,
+            "time_trial": 233,
+            "sprint": 62,
+            "climber": 3214
+        },
+        "weight": 59.0
+    },
+    {
+        "birthdate": "1994-1-9",
+        "height": 1.83,
+        "name": "Maximilian Schachmann",
+        "nationality": "DE",
+        "id": "maximilian-schachmann",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/schachmann.jpg",
+        "place_of_birth": "Berlin",
+        "points_per_speciality": {
+            "one_day_races": 1331,
+            "gc": 1727,
+            "time_trial": 1381,
+            "sprint": 140,
+            "climber": 2674
+        },
+        "weight": 70.0
+    },
+    {
+        "birthdate": "1996-5-5",
+        "height": 1.75,
+        "name": "Jai Hindley",
+        "nationality": "AU",
+        "id": "jai-hindley",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/hindley.jpg",
+        "place_of_birth": "Perth",
+        "points_per_speciality": {
+            "one_day_races": 353,
+            "gc": 2642,
+            "time_trial": 105,
+            "sprint": 174,
+            "climber": 2868
+        },
+        "weight": 60.0
+    },
+    {
+        "birthdate": "1997-8-1",
+        "height": 1.66,
+        "name": "Sergio Higuita",
+        "nationality": "CO",
+        "id": "sergio-higuita",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/higuita.jpg",
+        "place_of_birth": "Medellín",
+        "points_per_speciality": {
+            "one_day_races": 1013,
+            "gc": 1886,
+            "time_trial": 123,
+            "sprint": 79,
+            "climber": 2746
+        },
+        "weight": 57.0
+    },
+    {
+        "birthdate": "1994-3-6",
+        "height": 1.92,
+        "name": "Nils Politt",
+        "nationality": "DE",
+        "id": "nils-politt",
+        "team_name": "BORA - hansgrohe",
+        "photo_url": "riders/politt.jpg",
+        "place_of_birth": "Cologne",
+        "points_per_speciality": {
+            "one_day_races": 1659,
+            "gc": 975,
+            "time_trial": 1151,
+            "sprint": 452,
+            "climber": 1036
+        },
+        "weight": 80.0
+    },
+    {
+        "birthdate": "1995-1-19",
+        "height": 1.84,
+        "name": "Mathieu van der Poel",
+        "nationality": "NL",
+        "id": "mathieu-van-der-poel",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/vanderpoel.jpg",
+        "place_of_birth": "Kapellen",
+        "points_per_speciality": {
+            "one_day_races": 5602,
+            "gc": 984,
+            "time_trial": 906,
+            "sprint": 1424,
+            "climber": 2474
+        },
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1998-3-2",
+        "height": 1.76,
+        "name": "Jasper Philipsen",
+        "nationality": "BE",
+        "id": "jasper-philipsen",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/philipsen.jpg",
+        "place_of_birth": "Ham",
+        "points_per_speciality": {
+            "one_day_races": 3278,
+            "gc": 349,
+            "time_trial": 152,
+            "sprint": 4468,
+            "climber": 1386
+        },
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1994-8-10",
+        "height": 1.78,
+        "name": "Søren Kragh Andersen",
+        "nationality": "DK",
+        "id": "kragh-andersen",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/andersen.jpg",
+        "place_of_birth": "Strib",
+        "points_per_speciality": {
+            "one_day_races": 1403,
+            "gc": 1271,
+            "time_trial": 1791,
+            "sprint": 706,
+            "climber": 1260
+        },
+        "weight": 73.0
+    },
+    {
+        "birthdate": "1990-5-8",
+        "height": 1.75,
+        "name": "Kristian Sbaragli",
+        "nationality": "IT",
+        "id": "kristian-sbaragli",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/sbaragli.jpg",
+        "place_of_birth": "Empoli",
+        "points_per_speciality": {
+            "one_day_races": 1848,
+            "gc": 486,
+            "time_trial": 0,
+            "sprint": 1513,
+            "climber": 1414
+        },
+        "weight": 74.0
+    },
+    {
+        "birthdate": "1994-4-30",
+        "height": 1.69,
+        "name": "Jakub Mareczko",
+        "nationality": "IT",
+        "id": "jakub-mareczko",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/mareczko.jpg",
+        "place_of_birth": "Jarosław",
+        "points_per_speciality": {
+            "one_day_races": 470,
+            "gc": 385,
+            "time_trial": 20,
+            "sprint": 4432,
+            "climber": 103
+        },
+        "weight": 67.0
+    },
+    {
+        "birthdate": "1990-8-3",
+        "height": 1.83,
+        "name": "Silvan Dillier",
+        "nationality": "CH",
+        "id": "silvan-dillier",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/dillier.jpg",
+        "place_of_birth": "Aarau",
+        "points_per_speciality": {
+            "one_day_races": 1210,
+            "gc": 897,
+            "time_trial": 526,
+            "sprint": 638,
+            "climber": 632
+        },
+        "weight": 75.0
+    },
+    {
+        "birthdate": "1992-1-31",
+        "height": 1.81,
+        "name": "Xandro Meurisse",
+        "nationality": "BE",
+        "id": "xandro-meurisse",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/meurisse.jpg",
+        "place_of_birth": "Kortrijk",
+        "points_per_speciality": {
+            "one_day_races": 877,
+            "gc": 1322,
+            "time_trial": 136,
+            "sprint": 434,
+            "climber": 1362
+        },
+        "weight": 71.0
+    },
+    {
+        "birthdate": "1998-12-23",
+        "height": 1.76,
+        "name": "Kaden Groves",
+        "nationality": "AU",
+        "id": "kaden-groves",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/groves.jpg",
+        "place_of_birth": "Gympie",
+        "points_per_speciality": {
+            "one_day_races": 339,
+            "gc": 201,
+            "time_trial": 357,
+            "sprint": 1080,
+            "climber": 954
+        },
+        "weight": 76.0
+    },
+    {
+        "birthdate": "1991-7-4",
+        "height": 1.85,
+        "name": "Dries De Bondt",
+        "nationality": "BE",
+        "id": "dries-de-bondt",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/de-bondt.jpg",
+        "place_of_birth": "Bornem",
+        "points_per_speciality": {
+            "one_day_races": 1457,
+            "gc": 256,
+            "time_trial": 1,
+            "sprint": 1126,
+            "climber": 304
+        },
+        "weight": 73.0
+    },
+    {
+        "birthdate": "1989-2-9",
+        "height": 1.93,
+        "name": "Ramon Sinkeldam",
+        "nationality": "NL",
+        "id": "ramon-sinkeldam",
+        "team_name": "Alpecin - Deceuninck",
+        "photo_url": "riders/sinkeldam.jpg",
+        "place_of_birth": "Zaandam",
+        "points_per_speciality": {
+            "one_day_races": 886,
+            "gc": 557,
+            "time_trial": 72,
+            "sprint": 1350,
+            "climber": 57
+        },
+        "weight": 77.0
     }
 ]

@@ -8,6 +8,7 @@ export default function Document() {
           href="https://api.fontshare.com/css?f[]=bespoke-sans@1&display=swap"
           rel="stylesheet"
         /> */}
+        <title>Cycling stats</title>
       </Head>
       <body>
         <Main />

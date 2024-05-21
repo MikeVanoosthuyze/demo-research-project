@@ -2,6 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import riders from "@/data/riders.json";
 import teams from "@/data/teams.json";
+import Footer from "@/components/Footer";
 
 import ranking_riders from "../../data/ranking_riders.json";
 import { useEffect, useState } from "react";
@@ -10,7 +11,7 @@ import CustomChart from "@/components/CustomChart";
 export default function Riders({
   index,
   rank,
-  rider_name,
+  name,
   id,
   team_name,
   photo_url,
@@ -35,9 +36,9 @@ export default function Riders({
     }
   }, []);
 
-  // useEffect(() => {
-  //   console.log(riderData);
-  // }, [riderData]);
+  useEffect(() => {
+    console.log(riderData);
+  }, [riderData]);
 
   useEffect(() => {
     console.log(teamData);
@@ -48,34 +49,35 @@ export default function Riders({
   }
 
   return (
-    <div className="w-10/12 m-auto mt-8">
+    <div className="w-10/12 m-auto mt-8 content-riderpage">
       <Link href="/">
         <div className="mt-6 w-fit px-4 py-1 rounded-md text-light bg-darkGrey">
           Back
         </div>
       </Link>
-      <div className="mt-8 bg-darkGrey rounded-3xl px-10 content-riderpage">
+      <div className="mt-8 bg-darkGrey rounded-3xl px-10">
         <div className="flex gap-14 bg-gray-200 rounded-lg rounded-xl">
           <img className="w-64 rounded-l-xl" src={`/${photo_url}`} alt="" />
-          {/* Titel */}
-          {/* <div> */}
           <div className="flex items-center">
             <div>
               <div className="">
                 <h1 className="whitespace-nowrap font-semibold text-3xl">
                   {" "}
-                  {rider_name}{" "}
+                  {name}{" "}
                 </h1>
 
-                <h2 className="whitespace-nowrap text-lg mt-2">
+                {/* <h2 className="whitespace-nowrap text-lg mt-2">
                   #<span className="font-semibold text-xl">{rank} ranked</span>
-                </h2>
+                </h2> */}
               </div>
 
               <section className="mt-6 flex flex-col gap-2">
-                {/* <span className="font-medium">Team:</span>  */}
                 <div className="flex items-center">
-                  <img className="w-8 mr-4" src={`/${teamData.jersey_url}`} alt="" />
+                  <img
+                    className="w-8 mr-4"
+                    src={`/${teamData.jersey_url}`}
+                    alt=""
+                  />
                   <p> {team_name}</p>
                 </div>
                 <p>
@@ -154,8 +156,8 @@ export default function Riders({
 }
 
 export async function getStaticProps({ params }) {
-  const index = ranking_riders.findIndex((rider) => rider.id === params.slug);
-  const rider = ranking_riders[index];
+  const index = riders.findIndex((rider) => rider.id === params.slug);
+  const rider = riders[index];
   rider.index = index;
 
   return {
@@ -165,7 +167,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths() {
   return {
-    paths: ranking_riders.map((rider) => {
+    paths: riders.map((rider) => {
       return {
         params: {
           slug: rider.id,

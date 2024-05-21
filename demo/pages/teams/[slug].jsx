@@ -53,6 +53,8 @@ export default function Team({
     };
   }, []);
 
+
+  
   useEffect(() => {
     const foundTeam = teams.find(
       (team) => team.abbreviation === abbreviation_name
@@ -75,14 +77,13 @@ export default function Team({
   }
 
   return (
-    <div className="w-10/12 m-auto mt-8">
+    <div className="w-10/12 m-auto mt-8 content-teampage">
       <Link href="/">
         <div className="mt-6 w-fit px-4 py-1 rounded-md text-light bg-darkGrey">
           Back
         </div>
       </Link>
-
-      <div className="mt-8 content-teampage">
+      <div className="mt-8">
         <div className="flex gap-14">
           <img className="w-80 h-80" src={`/${jersey_url}`} alt="" />
           {/* Titel */}
@@ -158,14 +159,16 @@ export default function Team({
                       className="hover:shadow-md hover:scale-105 cursor-pointer transition-all duration-200 rounded-md"
                     >
                       <td className="py-4">
-                        <div className="ml-10">
-                          {" "}
-                          <img
-                            src={`/${rider.photo_url}`}
-                            alt=""
-                            className="rounded-full object-cover object-top w-14 h-14"
-                          />
-                        </div>
+                        <Link href={`../riders/${rider.id}`}>
+                          <div className="ml-10">
+                            {" "}
+                            <img
+                              src={`/${rider.photo_url}`}
+                              alt=""
+                              className="rounded-full object-cover object-top w-14 h-14"
+                            />
+                          </div>
+                        </Link>
                       </td>
                       <td className="text-base">{rider.rider_name}</td>
                       <td className=" text-base"> {rider.age}</td>

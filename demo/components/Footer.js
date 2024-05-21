@@ -1,7 +1,9 @@
 export default function Footer() {
   return (
-    <footer className="h-20 bg-black mt-28">
-      <p className="text-light text-center">©️ Mike Vanoosthuyze 2024 </p>
+    <footer className="py-8 bg-darkGrey mt-32 flex justify-center">
+      <p className="text-light">
+        Demo View Transitions Api - Copyright © 2024 Mike Vanoosthuyze{" "}
+      </p>
     </footer>
   );
 }
